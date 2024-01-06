@@ -1,0 +1,23 @@
+{
+ "runtimeTarget": {
+  "name": ".NETCoreApp,Version=v7.0",
+  "signature": ""
+ },
+ "compilationOptions": {},
+ "targets": {
+  ".NETCoreApp,Version=v7.0": {
+   "Spliter4FindAndSelect/1.0.0": {
+    "runtime": {
+     "Spliter4FindAndSelect.dll": {}
+    }
+   }
+  }
+ },
+ "libraries": {
+  "Spliter4FindAndSelect/1.0.0": {
+   "type": "project",
+   "serviceable": false,
+   "sha512": ""
+  }
+ }
+}

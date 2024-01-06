@@ -1,0 +1,2846 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT P
+AU NA D L
+  KIM K W
+  JIN J H
+  LEE B H
+  CHOI J D
+  CHOI J H
+  HAN H B
+  CHIN J H
+  LUO D
+  JIN G
+  CHEN Z
+  LI B
+  CUI Z
+  HAN X
+TI Device for diagnosing neural disease i.e. dementia      of patient
+  in hospital using virtual reality, has first      screen
+  introducing object in environment, and virtual      reality device
+  provided with second screen for      indicating question about
+  object
+AE SAMSUNG LIFE PUBLIC WELFARE FOUND MED CE
+AB 
+  NOVELTY - The device (100) has a virtual reality device        
+  (102) for providing a virtual reality environment        by an
+  image. A display (160) indicates the image        for diagnosing
+  neural disease received from an        external device through a
+  communication unit. A        sensing part senses operation of a
+  user. The        communication unit communicates with the
+  external        device and a control unit for inspecting neural 
+  disease diagnosis condition. The control unit        determines
+  the operation of the user through the        sensing part. A
+  first screen introduces an object        in the virtual reality
+  environment. The virtual        reality device is provided with
+  a second screen for        indicating question about the object.
+  USE - Device for diagnosing neural disease i.e.        dementia
+  of a patient in a hospital using virtual        reality. Uses
+  include but are not limited to        neurodegenerative
+  disorder, Alzheimer disease,        blood vessel disease
+  dementia, frontotemporal        dementia, corticobasal
+  degeneration, progressing        supranuclear paralysis, lewy
+  body dementia,        knot-derision senile dementia, Pick's
+  disease,        granule disease, amyotrophic lateral sclerosis, 
+  motion neural disease, Guam parkinsonism-dementia        
+  complex, wrightii nose-beam dig disease, multiple        
+  sclerosis, traumatic brain injury and Parkinson's        
+  disease.
+  ADVANTAGE - The device conveniently performs inspection        
+  about the neural disease including dementia by        using the
+  virtual reality device without realizing        burden, and
+  easily and comfortably determines        internal environment of
+  a user, so that burden and        mind stress of the patient can
+  be reduced.
+  DETAILED DESCRIPTION - An INDEPENDENT CLAIM is also included for a   
+  method for diagnosing neural disease i.e. dementia        of a
+  patient in a hospital using virtual        reality.
+  DESCRIPTION Of DRAWING(S) - The drawing shows a schematic block diagram 
+  of a device for diagnosing neural disease of a        patient in
+  a hospital using virtual reality.        '(Drawing includes
+  non-English language        text)'Neural disease diagnosing
+  device (100)Personal computer (101)Virtual reality device (102)Server
+  (106)Display (160)
+DA 2018-10-12
+UT DIIDW:201875510L
+ER
+
+PT J
+AU Lee,, Sukyung
+  Choi, Yoon Kyung
+TI A Comparative Review of the Design Guidelines for Dementia-Friendly Care
+  Environments in Terms of ‘Person-Centered Care’ Approach
+Z1 ‘인간중심 돌봄’적인 측면에서의 치매친화환경지침 비교검토
+AB Purpose: This study aims to examine how Person-Centered Care approach
+  has affected the long-term elderly care facility design guidelines
+  related to the dementia friendly environment, by examining the
+  literature on 'Person-Centered Care' highlighted in research; to address
+  the policy implications for dementia-friendly environment on basis of
+  Person-centered approach. Method: The concept of Person-centered Care
+  was defined, and the principles and the design features of
+  Person-centered care were derived from literature review focused on
+  person-centered Care and the design of environments for people with
+  dementia highlighted in research. Based on the facts, this study
+  examines how much Person-Centered Care approach affects the design
+  guidelines for dementia-friendly environments by comparative review.
+  Result: The result shows that the principles and design features of
+  Person-centered Care influence on that of the selected design guidelines
+  for dementia-friendly elderly care environments directly through
+  comparative review. The viewpoint to dementia care environments has
+  changed from person-centered care approach for dementia patients based
+  on homelike environment to that expanded dementia patients' families and
+  staffs who take care of them, based on community. In Korea, the
+  direction of dementia care policy is in the process of gradually
+  changing from a medical approach to an expanded social and
+  person-centered care approach. There is a strong need to establish the
+  design guideline for dementia-friendly environments to apply the
+  efficient change.
+DA 2021-06-22
+UT KJD:ART002685375
+ER
+
+PT J
+AU Lee, Yeunsook
+  Hwang,, Jihye
+AU 임수현
+TI A Comparative Analysis on Structure of Design Guidelines for Dementia
+  Elderly Care Environment
+Z1 치매노인환경을 위한 선도적 디자인 지침의 체계 비교 분석
+AB As Korean society has been rapidly aging and a proportion of the elderly
+  with dementia has been also increasing, there has been more needs of
+  properly designed dementia elderly care environment. To build one that
+  is appropriate for the elderly with dementia, having a right guideline
+  is a key. Therefore, the purpose of this study is to comparatively
+  analyze structures of leading dementia elderly care environment design
+  guidelines in order to suggest a base of combing them which could be
+  helpful for professionals involved in providing care environment for the
+  elderly with dementia. A content analysis method was used in this study
+  and 'Therapeutic Environment Screening Scale for Nursing Homes and
+  Residential Care(TESS-NH/RC)', 'Dementia Design Checklist(DDC)', 'Matrix
+  Bauliche Anforderungen und Bereiche(MBAB)', and 'Environment Dementia
+  Care(EDC)' were chosen for a comparative analysis. As a result, these
+  guidelines were systematized by a human system and a space system.
+DA 2011-01-01
+UT KJD:ART001605082
+ER
+
+PT P
+AU CHOI J S
+TI Dementia patient training system using virtual      reality,
+  includes a server providing virtual reality to      a patient with
+  dementia connected through a network,      and the server
+  implements a virtual environment of      virtual reality
+AE C2 MONSTER CO LTD
+AB 
+  NOVELTY - The system includes a server (100) providing        
+  virtual reality to a patient with dementia        connected
+  through a network (150). The server        implements a virtual
+  environment of virtual reality        and recognizes multiple
+  patients in the virtual        environment. A process module
+  (110) provides        mission content for improving capability.
+  A storage        module (120) stores the mission content, the  
+  patient's selection data, operation data, and the        
+  patient's mission success data. A communication        module
+  (130) communicates with the patient's        terminal through a
+  network. A cognitive ability        determination module (140)
+  determines the patient's        cognitive ability through the
+  patient's selection        data and operation data for a mission
+  provided by        the process module. The communication module 
+   receives the patient's selection data and motion        data.
+  USE - Dementia patient training system using virtual        
+  reality.
+  ADVANTAGE - The system improves cognitive ability in a        
+  virtual environment for a patient with dementia, it        is
+  possible to continuously and repeatedly train by        causing
+  interest.
+  DESCRIPTION Of DRAWING(S) - The drawing shows a schematic representation
+  of the server. (Drawing includes non-English        language
+  text).Server (100)Process module (110)Storage module (120)Communication
+  module (130)Cognitive ability determination module        
+  (140)Network (150)
+DA 2020-07-02
+UT DIIDW:202054322D
+ER
+
+PT J
+AU Van Steenwinkel, Iris
+  Van Audenhove, Chantal
+  Heylighen, Ann
+TI Mary's Little Worlds: Changing Person-Space Relationships When Living
+  With Dementia
+AB With the case study presented in this article we explore how people with
+  dementia experience and use their environment to expand our
+  understanding of how architectural environments can improve their
+  well-being. We focus on how relationships between people and spaces
+  change for people with dementia. Using a qualitative analysis of three
+  in-depth interviews with a woman living with dementia, we obtained an
+  insider's perspective and a rich account of the changes in her life,
+  including her lived experiences and interventions in her home
+  environment. We contend that looking at people with dementia in relation
+  to and interaction with their environment, combined with an explorative
+  research approach, might reveal multiple and innovative possibilities in
+  designing for people with dementia. To that end, and to build on
+  existing architectural expertise, we suggest focusing on architectural
+  ordering principles across different cases.
+DA 2014-10-29
+UT WOS:000342625100001
+PM 25015779
+ER
+
+PT P
+AU CHOI J S
+TI System for training dementia patients, using virtual reality for
+  cognitive ability in a virtual environment comprises a server that
+  implements a virtual environment, and a storage module stores the
+  content, selection data, operation data
+AE C2MONSTER CO LTD
+AB 
+  NOVELTY - The system comprises a server (100) that provides virtual
+  reality to a patient with dementia connected through a network (150).
+  The server implements a virtual environment and recognizes multiple
+  patients on the virtual environment. A storage module is used to store
+  the mission content, the patient's selection data, operation data, and
+  the patient's mission success data. A communication module is used to
+  communicate with the patient's terminal through a network. A cognitive
+  ability determination module is used to determine the patient's
+  cognitive ability through the patient's selection data and operation
+  data for a mission provided by the process module.
+  USE - System for training dementia patients, using virtual reality for
+  cognitive ability in a virtual environment.
+  ADVANTAGE - The patient receives repetitive and persistent
+  dementia-related information, such that the cognitive ability,
+  awareness, patience are improved, and the process module is provided to
+  implement a virtual environment to the user.
+  DESCRIPTION Of DRAWING(S) - The drawing shows a schematic view of the
+  system.Server (100)Network (150)Input unit (400)First input unit
+  (410)Second input unit (420)Sensing unit (500)
+DA 2020-07-06
+UT DIIDW:2020558583
+ER
+
+PT J
+AU Brooke, Joanne
+  Semlyen, Joanna
+TI Exploring the impact of dementia-friendly ward environments on the
+  provision of care: A qualitative thematic analysis
+AB Dementia-friendly wards are recent developments to improve care for
+  patients with dementia in acute hospitals. This qualitative study used
+  focus groups to understand the impact of dementia friendly ward
+  environments on nurses experiences of caring for acutely unwell patients
+  with dementia. Qualified nurses and health care assistants working in an
+  acute NHS Trust in England discussed their perceptions and experiences
+  of working in a dementia-friendly ward environment. Four themes
+  developed from the thematic analysis: (1) 'It doesn't look like a
+  hospital': A changed environment, (2) 'More options to provide
+  person-centred care': No one size fits all, (3) 'Before you could not
+  see the patients': A constant nurse presence and (4) 'The ward remains
+  the same': Resistance to change. Recommendations and implementations for
+  practice are discussed.
+DA 2019-03-01
+UT WOS:000458858300017
+PM 28103705
+ER
+
+PT J
+AU Cho, Taigyoun
+AU 우양
+TI A Study on Therapeutic landscape environment for the elderly with
+  dementia based on multisensory stimulation
+AB (Background and Purpose)The acceleration of aging has resulted in many
+  social problems, one of which is the imbalance between the increase in
+  the population with dementia and the available social forces that help
+  them live. One of the important factors causing this imbalance is how
+  living spaces for elderly individuals with dementia are designed. The
+  living environment of the elderly with dementia, which in most cases is
+  the sanatorium, is designed without understanding the neural structure
+  of the disease. In particular, we do not understand the neural activity
+  relationship between the outdoor environment and the stimulus and
+  response in dementia, and only focus on creating a pure indoor visual
+  stimulation environment. Although the individual sensory systems of the
+  elderly with dementia deteriorate, multisensory integration processing
+  increases. Thus, this research proposes establishing a multisensory
+  stimulation therapeutic landscape environment for the elderly with
+  dementia to alleviate the mental and behavioral symptoms and delay the
+  development of the disease course. (Method) This study enrolled elderly
+  individuals with dementia as limited research subjects. First,
+  neurological research on dementia was conducted to define the
+  significance of the multisensory stimulation environment, neural
+  activity of the elderly with dementia, and therapeutic landscape
+  environment. Second, the relationship between the neural activity of
+  elderly individuals with dementia who responded to multisensory stimuli
+  and the therapeutic landscape environment was organized. Third, six
+  design methods and relative design suggestions were proposed for
+  creating the multisensory therapeutic landscape environment for elderly
+  individuals with dementia. (Results) This study examined the
+  relationship between multisensory stimulation and the therapeutic
+  landscape environment of elderly individuals with dementia, to propose
+  six design methods that enrich the plant species and forms of
+  multisensory stimulation, strengthen tactile-centered multisensory
+  stimulation, enhance the connection between sensory stimuli, symbolize
+  past experience and memory, construct deductive space, and design
+  time-effective activities and games. (Conclusions) It is important to
+  emphasize the necessity of multisensory stimulation in the design of
+  therapeutic landscape environments. Further research should be
+  undertaken to chalk out the design of multisensory stimulation to
+  improve the quality of life of elderly individuals with dementia. This
+  study proposes a new way of constructing an outdoor therapeutic
+  landscape for elderly individuals with dementia and will provide basic
+  data to create an environment for improving their quality of life.
+DA 2022-03-25
+UT KJD:ART002812656
+ER
+
+PT J
+AU Sturge, Jodi
+  Nordin, Susanna
+  Patil, Divya Sussana
+  Jones, Allyson
+  Legare, France
+  Elf, Marie
+  Meijering, Louise
+TI Features of the social and built environment that contribute to the
+  well-being of people with dementia who live at home: A scoping review
+AB This scoping review summarizes findings from 23 qualitative articles on
+  how social and built environments contribute to the well-being of people
+  with dementia who live at home. Through thematic analysis, two themes
+  were identified: i) connection to society and supportive relationships
+  and ii) interaction with natural environments and public space. Features
+  of the social and built environment contribute to well-being both
+  positively and negatively. Future research should explore how these
+  features intersect in an urban-rural context as a basis to inform the
+  development of dementia-friendly initiatives. Moreover, involving people
+  with dementia in the design of features of built environments, such as
+  infrastructure, will result in more inclusive communities.
+DA 2021-03-04
+UT WOS:000616070900007
+PM 33254054
+ER
+
+PT J
+AU Gramegna, Silvia Maria
+  Biamonti, Alessandro
+TI Environment as non pharmacological intervention in the care of
+  Alzheimer's disease
+AB The physical environment can reduce dysfunctional symptoms and
+  behaviours, if the information needed to understand the environment is
+  embedded in the environment itself. Moreover, the environment is
+  regarded as a therapeutic aid, able to enhance well-being among people
+  with dementia. The actual medical model of dementia care is focused on
+  impairments and lost capabilities; considering these features as the
+  focus of care makes hard to aim at enhancing people's with dementia
+  well-being. Hence, focusing on the experience of living with dementia,
+  enables designers to create care environments that accomplish dementia
+  needs. Methods. Through interview sessions with caregivers and
+  professionals, we delineated a set of design guidelines, for supportive
+  environments tailored for people withdementia. Objectives. The purpose
+  of this study is to analyse how design can promote well-being through
+  the creation of physical environments for people with dementia that are
+  psychologically supportive in order to manage the major stress
+  accompanying illness.
+CT 12th International Conference of the European-Academy-of-Design (EAD)
+CY APR 12-14, 2017
+CL Sapienza Univ Rome, Fac Architecture, Rome, ITALY
+HO Sapienza Univ Rome, Fac Architecture
+SP European Acad Design
+DA 2018-02-15
+UT WOS:000419738000188
+ER
+
+PT J
+AU 김민규
+  장예빛
+  손정훈
+TI The Policy implications on dementia care village as dementia-friendly
+  environment
+Z1 치매 친화적 환경으로서 ‘치매안심마을’에 대한 정책적 고찰
+AB The purpose of this study is to discuss policy implications for the
+  development of dementia management policy focused on dementia care
+  village. In doing so, we formed elements of dementia management based on
+  person-centered care and analyzed the Hogeweyk dementia village case in
+  Netherlands by using the elements. Specifically, we made five
+  person-centered care components such as routineness, sociality,
+  autonomy, individuality, and staff expertise. We conducted content
+  analysis using 12 overseas data on Hogeweyk to find out how those
+  abstract evaluation criteria were executed in practice. The principles
+  of Hogeweyk can be described as making a space, where patients still can
+  enjoy their lives, rather than simply having prolonged lives, and
+  creating an environment focusing on what patients still can do to
+  improve their quality of life. Considering person-centered care elements
+  and Hogeweyk case analysis comprehensively, we suggested implications
+  for dementia management policy as follows: 1) developing an activity
+  model based on one’s daily routine; 2) changing perspectives on space
+  for dementia care center as a daily living environment; 3) constructing
+  safe environment for autonomous behavior and offering selective care
+  program; 4) supporting establishment of localized dementia care village,
+  considering differences in individual characteristics and living
+  environment; 5) expanding the concept of dementia care partners; and 6)
+  establishing village-based nursing homes for severe dementia patients
+  and a test operation of the facility.
+AK 본 연구는 인간중심케어에 기반을 둔 치매관리 평가 요소를 도출하여, 평가 항목에 따라네덜란드의 호그벡 치매 마을 사례를 분석하고,
+  치매안심마을에 초점을 맞추어 국내 치매관리정책 개발에 필요한 정책적 시사점 도출을 목표로 하였다. 이를 위해, 인간중심케어
+  관련연구 및 WHO의 치매 관리에 관한 액션플랜 검토를 통해 일상성, 사회성, 자율성, 개별성, 인력의 전문성이라는 다섯 가지
+  인간중심케어 구성요소를 도출하였고, 호그벡 관련 12개의해외 자료에 관한 내용분석을 실시하여, 추상적인 인간중심케어 구성요소들이
+  호그벡에서어떠한 형태로 구체화되어 나타나고 있는지를 살펴보았다. 호그벡의 원칙은 첫째, 연명공간이 아닌 여전히 삶을 즐길 수 있는
+  공간, 둘째, 삶의 질 향상을 위해 환자들이 여전히 할 수있는 것에 초점을 둔 운영으로 요약된다. 인간중심케어 구성요소 도출 및
+  호그벡 사례 분석을 종합적으로 고찰하여, 국내 치매관리정책에 관한 시사점으로 첫째, 일상 활동 모델 개발, 둘째, 치매안심센터
+  공간의 변화, 셋째, 독립적 행동이 가능한 안전한 환경 조성과 선택적케어 프로그램 지원, 넷째, 개인 및 생활환경 차이를 고려한
+  지역별 치매안심마을 모델 개발지원, 다섯째, 치매 파트너즈 개념의 확대, 여섯째, 중증치매환자를 위한 마을형 요양시설 건립과 시범
+  운영 추진을 제안하였다.
+DA 2018-01-01
+UT KJD:ART002334225
+ER
+
+PT J
+AU Whan, kim - Jong
+  Myoung-Keun,, KIM
+TI A Study on the architectural planning through analysis the physical
+  Environment factor of Dementia special hospitals
+Z1 치매전문병원 물리적 환경요인 분석을 통한 건축계획연구 -시․도립 치매 전문병원의 주된 3가지 평면유형 사례를 중심으로-
+AB The purpose of this study is to analyze behaior character of dementia
+  patients and physical environment problem through survey, research and
+  interview on the problems arising from the dementia specialized
+  facilities and according to the data from it, suggesting a plan to
+  improve physical environment and design guideline. Three hospitals were
+  chosen, which had both private space, public space and semi-public
+  space, and dementia patients were chosen from them, who were able to
+  move room to room by themselves.
+DA 2008-01-01
+UT KJD:ART001289049
+ER
+
+PT J
+AU Kang,, Hye-Jin
+  Young-Ki, Park
+TI A Study on the evaluation of occupant environments in the skilled
+  nursing facilities for the elderly
+Z1 노인 전문 요양시설의 거주 환경 평가에 관한 연구
+AB Research indicates that the elderly ,especially with dementia, are
+  easily affected by the environments of care facilities in which they
+  live. Recently, results of most studies focus on the therapeutic
+  environment or the management of specialized long-term care facilities
+  for the elderly with dementia. The purpose of this study is therefore to
+  evaluate the environment of the care facility in which the elderly with
+  dementia live and suggest better environments and design elements for
+  the people with dementia. This study has been focused on evaluating the
+  environment of the specialized long-term care facility designed for the
+  people with dementia. For this purpose, A tool called the Care
+  Environment Checklist (CEC) was used. The sample was analyzed by SPSS
+  11.0 Windows.
+DA 2008-01-01
+UT KJD:ART001327238
+ER
+
+PT J
+AU Lee, Yunhee
+  Lee, Yeunsook
+TI Housing Needs of Korean Family with Demented Elderly
+Z1 한국치매노인 가족의 주거환경 개선요구
+AB Most elderly victims of senile dementia in Korea are cared for at home.
+  This creates hardship for their families. Recent research suggests that
+  the physical environment can affect the treatment of dementia. In light
+  of these findings, a prudent approach to the design of the housing
+  environment of family with dementia sufferers is advisable. This study
+  aims to determine the design factors that need to be considered for the
+  housing environment of dementia, particularly for those suffering from
+  Alzheimer's or Cerebrovascular dementia. For this study, and in-depth
+  qualitative investigation method was employed. Principal caregivers were
+  interviewed using various investigative tools, including objective
+  measures, structured and non-structured questionnaires. The
+  investigation results suggest that the need for housing environment
+  improvement varies with the severity and type of dementia. The housing
+  needs in this study, is expected to promote a focus on improved design
+  management for the environment and housing of dementia and their
+  families. The results also suggest the establishment of a welfare policy
+  for senile dementia victims and their families.
+DA 2004-01-01
+UT KJD:ART001126140
+ER
+
+PT J
+AU Walsh, Sebastian
+  Milne, Richard
+  Brayne, Carol
+TI Ethics, evidence, and the environment in dementia risk reduction reply
+DA 2022-03-01
+UT WOS:000767501900009
+PM 36098289
+ER
+
+PT J
+AU Moon,, Ok kon
+  Yeum, Dong_Moon
+  Choi,, Wan Suk
+TI A Study on the Living Environment of the Residents of the Dementia Care
+  Village
+AB The purpose of this study was to investigate the relationship between
+  the needs for environmental improvement and dementia patients' activity
+  of daily living (ADL) and behavior and psychological symptoms of
+  dementia (BPSD) in dementia patients living in urban type dementia care
+  villages. The subjects of this study were 70 households with cognitive
+  impairment and dementia among residents of dementia care village in
+  Gunsan City. The survey was conducted with the permission of their
+  family. Frequency analysis and descriptive statistical analysis were
+  performed on the main variables to analyze the characteristics of the
+  subjects. Bivariate correlation analysis was performed to verify the
+  relationship between the two variables. According to the analysis
+  results, the order of environment improvement was in the order of
+  entrance (51.4%), toilet and stairs (48.6%), kitchen (11.4%), bedroom
+  and laundry room (10.0%). In the relationship between the variables, The
+  ADL was correlated with age (r=.315, p <.01), BPSD (r=.322, p<.01) and
+  living environment inconvenience (r=.640, p<.01) while, living
+  environment inconvenience correlated with environment improvement need
+  (r=.669, p<.01). This study suggests that improvement of the residential
+  environment of dwellers in dementia care villages, especially the
+  stairway and entrance hall is necessary.
+DA 2018-01-01
+UT KJD:ART002432583
+ER
+
+PT J
+AU Niedoba, Simone
+  Oswald, Frank
+TI Person-Environment Exchange Processes in Transition into Dementia: A
+  Scoping Review.
+AB BACKGROUND AND OBJECTIVES: The important role that the environment plays
+  in the lives of older people is widely acknowledged. To date little is
+  known about person-environment processes during early stages of
+  dementia. This scoping review aims to provide an overview of the
+  processes involved during early dementia and the relationship to
+  different dimensions of their life space.
+  RESEARCH DESIGN AND METHODS: A scoping review was conducted according to
+  the Johanna Briggs Institute Manual, which involved searching for
+  research on early dementia and the environment across three databases.
+  RESULTS: 1358 records were screened, of which 284 sources were included
+  in a first categorization of the diverse relationships that exist
+  between the environment and the person living with early dementia.
+  Finally, 102 sources were selected that describe person-environment
+  exchange processes of agency, belonging, or stress. People living with
+  dementia actively shape, use, seek out, and avoid their environment as a
+  reaction to both declining abilities and environmental barriers.
+  Specifically, feelings of connectedness and familiarity are important.
+  DISCUSSION AND IMPLICATIONS: Taking both an environmental gerontology
+  perspective and a processual, i.e., transition perspective broadens the
+  understanding of the experience and behavior of people living with early
+  dementia. They constantly interact with and shape their environment and
+  desire a sense of belonging. This sense of belonging might be threatened
+  by dementia but can be actively reinforced by people living with
+  dementia. These person-environment processes and their dynamics over
+  time should be further investigated. Especially, quantitative data and
+  data on the socioeconomic environments are lacking.
+DA 2023-03-31
+UT MEDLINE:36988643
+PM 36988643
+ER
+
+PT J
+AU Waller, Sarah
+  Masterson, Abigail
+TI Designing dementia-friendly hospital environments.
+AB The proportion of people with dementia in general hospitals continues to
+  increase. Little attention has been paid to the impact of the physical
+  environment of the hospital on their care. The King's Fund's Enhancing
+  the Healing Environment programme worked with 26 NHS trusts in England
+  to develop more supportive design for people with dementia. Projects
+  ranged from improvements to ward environments and social spaces to the
+  development of gardens. The evaluation found that relatively simple,
+  cost-effective changes to the physical environment of care have positive
+  effects on people with dementia and those using and working in the
+  services. These include reducing agitation and distress and raising
+  staff morale. From this work a set of design principles for dementia
+  friendly design has been developed together with evidence based
+  environmental assessment tools for hospital and ward environments. The
+  toolsare free to download and are being used extensively nationally and
+  internationally.
+DA 2015-02-01
+UT MEDLINE:31098081
+PM 31098081
+ER
+
+PT J
+AU Stargatt, Jennifer
+  Bhar, Sunil
+  Petrovich, Tanya
+  Bhowmik, Jahar
+  Sykes, David
+  Burns, Kelly
+TI The Effects of Virtual Reality-Based Education on Empathy and
+  Understanding of the Physical Environment for Dementia Care Workers in
+  Australia: A Controlled Study
+AB Background: There is support for the effectiveness of virtual reality
+  (VR) technology in dementia education. However, it is not yet known if
+  VR is a useful tool for improving empathy and understanding of dementia
+  care environments among dementia care workers.
+  Objective: This study compared learning outcomes of VR versus non-VR
+  (control) workshops for dementia care workers of different ages and
+  English-speaking backgrounds.
+  Methods: Dementia care workers enrolled in workshops on dementia care
+  principles. Once participants were enrolled, workshops were assigned at
+  random to deliver non-VR or VR-based education. Participants (N= 114,
+  91.8% female, mean age = 46.4; SD = 13.2; n= 60VR condition, 54control
+  condition) completed self-report measures of empathy towards people
+  living with dementia, understanding of dementia care environments,
+  dementia knowledge, and attitudes towards dementia at pre- and
+  post-workshop.
+  Results: Significant pre-post main effects were observed for empathy,
+  understanding of dementia care environments, and attitudes. Interaction
+  effects were not found; improvements in outcomes were similar between
+  conditions. However, interaction effects were observed for subgroups.
+  Empathy improved significantly more in the VR condition for older
+  participants. Understanding of dementia care environments improved more
+  in the VR condition for younger and non-English-speaking background
+  participants.
+  Conclusion: Using VR may not augment teaching outcomes for all learners.
+  VR may differentially assist leaners of different ages and
+  English-speaking backgrounds. More research is needed to understand for
+  which variables and for whom VR is a useful teaching tool.
+DA 2021-12-10
+UT WOS:000722640800027
+PM 34633323
+ER
+
+PT J
+AU Soilemezi, Dia
+  Drahota, Amy
+  Crossland, John
+  Stores, Rebecca
+TI The Role of the Home Environment in Dementia Care and Support:
+  Systematic review of Qualitative Research
+AB Background The domestic home is the preferred site for care provision
+  for people with dementia and their families, therefore creating a
+  dementia and caring friendly home environment is crucial. This
+  systematic review synthesised qualitative studies to explore the role of
+  the home environment and identify potential barriers and facilitators in
+  home dementia care and support to inform future practice and research.
+  Methods A systematic search in 12 databases identified international
+  qualitative literature on perceptions and experiences of
+  community-dwelling people with dementia, family and formal carers
+  regarding the role of the home environment and ways to tackle daily
+  challenges. Results Forty qualitative studies were included and analysed
+  using thematic synthesis. The main three themes were: 'home as a
+  paradox', 'there is no magic formula' and 'adapting the physical space,
+  objects and behaviour'. Findings indicate that home is an important
+  setting and is likely to change significantly responding to the changing
+  nature of dementia. Themes were later validated by family carers of
+  people with dementia. Conclusions The home environment is an important
+  setting for care and needs to remain flexible to accommodate changes and
+  challenges. Family carers and people with dementia implement and often
+  improvise, various environmental strategies. Continuous and tailor-made
+  support at home is required.
+DA 2019-06-14
+UT WOS:000469352700002
+PM 29149787
+ER
+
+PT J
+AU Morgan, DG
+  Semchuk, KM
+  Stewart, NJ
+  D'Arcy, C
+TI The physical and social environments of small rural nursing homes:
+  Assessing supportiveness for residents with dementia
+AB The physical and social environments are recognized as important
+  therapeutic tools in the care of nursing home residents with dementia,
+  yet little is known about the environments of rural nursing homes. This
+  study was conducted in one rural health authority (16,000 km(2)) in the
+  province of Saskatchewan. Long-term institutional care was provided in
+  seven small (15 to 35 beds), publicly funded nursing homes, none of
+  which had separate dementia special care units (SCUs). The Physical
+  Environmental Assessment Protocol (PEAP) was used to evaluate the
+  facilities on nine key dimensions of dementia care environments.
+  Facilities were most supportive in provision of privacy and least
+  supportive on maximizing awareness and orientation. Focus groups were
+  conducted with registered nurses, nursing aides, and activity workers.
+  Staff caregivers identified six special needs of residents with dementia
+  that were difficult to meet in the nursing homes, two of which were
+  related to the physical environment (safety and a calm, quiet
+  environment) and four of which were related to the social environment
+  (meaningful activity and one-to-one contact, opportunity to use
+  remaining abilities, flexible policy, and knowledgeable caregivers who
+  enjoy working with persons with dementia). Staff suggested separate
+  dementia SCUs as one approach to managing dementia care but also
+  identified challenges in creating dementia units in small rural
+  facilities. Results provide support for conceptual models of dementia
+  care settings that emphasize the interaction of organizational, social,
+  and physical factors.
+DA 2003-09-01
+UT WOS:000186505000006
+ER
+
+PT J
+AU Quinn, Catherine
+  Hart, Nicola
+  Henderson, Catherine
+  Litherland, Rachael
+  Pickett, James
+  Clare, Linda
+TI Developing supportive local communities: Perspectives from people with
+  dementia and caregivers participating in the IDEAL programme
+EA SEP 2021
+AB Communities play an important role in supporting people living with
+  dementia. The aim of this study was to explore what could be changed in
+  the local community to enable those with dementia to live well. People
+  with dementia and carers taking part in the IDEAL programme responded to
+  open-ended questions. Responses from 1,172 people with dementia and 702
+  caregivers were analyzed using thematic analysis. Four themes were
+  identified: raising awareness, improving access to support services,
+  providing social events and activities, and supporting people to engage
+  in the community. These highlight the role of individuals, resources and
+  the environment in supporting those with dementia. Longer-term
+  investment in services is needed to underpin dementia-inclusive
+  communities.
+DA 2021-09-30
+UT WOS:000705133300001
+PM 34629015
+ER
+
+PT J
+AU Nakanishi, Miharu
+  Tei-Tominaga, Maki
+TI The Association between Quality Improvement Initiatives in Dementia Care
+  and Supportive Psychosocial Work Environments in Nursing Homes
+AB Background: Quality improvement initiatives can help nursing homes
+  strengthen psychosocial work environments. The aim of the present study
+  was to examine the association between supportive psychosocial work
+  environment, and professional and organizational characteristics
+  regarding quality improvement initiatives in dementia care. Methods: A
+  paper questionnaire survey was administered to a convenience sample of
+  365 professional caregivers in 12 special nursing homes in Japan.
+  Psychosocial work environment was assessed using the Social Capital and
+  Ethical Climate at the Workplace Scale to calculate a score of social
+  capital in the workplace, ethical leadership, and exclusive workplace
+  climate. Variables for quality improvement initiatives included type of
+  home (unit-type or traditional), presence of additional benefit for
+  dementia care, and professionalism in dementia care among caregivers
+  evaluated using the Japanese version of the Sense of Competence in
+  Dementia Care Staff Scale. Results: Elevated professionalism and
+  unit-type home were significantly associated with high social capital,
+  strong ethical leadership, and low exclusive workplace climate. The
+  presence of dementia care benefit was not associated with any subscale
+  of psychosocial work environment. Conclusions: Quality improvement
+  initiatives to foster supportive psychosocial work environment should
+  enhance professionalism in dementia care with unit-based team building
+  of professional caregivers in special nursing homes.
+DA 2018-07-20
+UT WOS:000436494800017
+PM 29738507
+ER
+
+PT J
+AU Hadjri, Karim
+  Rooney, Cliona
+  Faith, Verity
+TI Housing Choices and Care Home Design for People With Dementia
+AB This article reviews the current state of housing for people with
+  dementia by exploring housing choices available to this group, and
+  identifying potential issues with design of care homes. Older people who
+  wish to age in place are faced with the challenge of adapting their
+  domestic environment to ensure independence, accessibility, and social
+  connectivity. This is even more challenging for people with dementia who
+  continue to live at home, given the risks of self-harm and getting lost.
+  More imaginative and inclusive forms of collective housing are needed.
+  For people with dementia, a move to a new environment is often a
+  stressful experience that causes shock, withdrawal, and anger. Hence,
+  more research is needed to develop more fitting long-term housing
+  options for people with dementia. This article presents a brief review
+  on housing choices and housing design for people with dementia.
+  Interviews with managers of 22 care homes were conducted to explore
+  housing choices and design issues. Results show that the main housing
+  choices available to people with dementia offer different levels of
+  care. The choice of care homes relates to the atmosphere of a home as
+  some occupants favor a homely or relaxing environment and others prefer
+  dynamic settings. A combination of appropriate level of care, a good
+  atmosphere, and design quality within the care home are elements that
+  lead to a more enabling environment. Design of a successful caring
+  environment also requires appropriate care and a positive therapeutic
+  and domestic-looking environment.
+DA 2015-03-01
+UT WOS:000354025600007
+PM 25929473
+ER
+
+PT J
+AU Driessen, Annelieke
+TI Dementia Matters: User-Building Interactions Shaping Institutional Life
+  in the Netherlands
+EA APR 2019
+AB In this article, I examine building-user interactions on three dementia
+  wards in the Netherlands. I coin the concept of "sociomaterial
+  awareness" to articulate a collective situational sensitivity to the
+  ways in which the built environment invites its users (professionals,
+  but also people with dementia themselves) to act in specific ways, as
+  well as to possibilities to adjust (elements of) the building. I argue
+  that along with different enactments of dementia, different positions
+  become available for residents when the built environment is
+  acknowledged as actively shaping care interactions.
+DA 2019-06-14
+UT WOS:000469620100001
+PM 31002534
+ER
+
+PT J
+AU Suzuki, Rikako
+  Meguro, Kenichi
+TI [Multilingualism and Dementia: From the Studies in Brazil and Taiwan].
+AB Our studies in Brazil and Taiwan revealed that the prevalence of
+  dementia was independent of environment, culture, and use of
+  multilingualism. However, language deterioration in dementia was found
+  to be related to its frequency of use and the environment, and both
+  language, and deterioration were asymmetric. Although the cognitive
+  reserve and protective effect of multilingualism on dementia were shown,
+  the decline in language function was found to be related to psychiatric
+  symptoms of dementia, delusions, and depression which were relieved by
+  providing a reliable language environment. It was suggested that
+  language function evaluation should be considered for dementia care.
+DA 2021-03-10
+UT MEDLINE:33678614
+PM 33678614
+ER
+
+PT J
+AU Hung, Lillian
+  Phinney, Alison
+  Chaudhury, Habib
+  Rodney, Paddy
+  Tabamo, Jenifer
+  Bohl, Doris
+TI "Little things matter!" Exploring the perspectives of patients with
+  dementia about the hospital environment
+AB BackgroundRecognising demographic changes and importance of the
+  environment in influencing the care experience of patients with
+  dementia, there is a need for developing the knowledge base to improve
+  hospital environments. Involving patients in the development of the
+  hospital environment can be a way to create more responsive services. To
+  date, few studies have involved the direct voice of patients with
+  dementia about their experiences of the hospital environment.
+  Design and methodUsing an action research approach, we worked with
+  patients with dementia and a team of interdisciplinary staff on a
+  medical unit to improve dementia care. The insights provided by patients
+  with dementia in the early phase shaped actions undertaken at the later
+  stage to develop person-centred care within a medical ward. We used
+  methods including go-along interviews, video recording and participant
+  observation to enable rich data generation.
+  AimThis study explores the perspectives of patients with dementia about
+  the hospital environment.
+  ResultsThe participants indicated that a supportive hospital environment
+  would need to be a place of enabling independence, a place of safety, a
+  place of supporting social interactions and a place of respect.
+  ConclusionsPatient participants persuasively articulated the supportive
+  and unsupportive elements in the environment that affected their
+  well-being and care experiences. They provided useful insights and
+  pointed out practical solutions for improvement. Action research offers
+  patients not only opportunities to voice their opinion, but also
+  possibilities to contribute to hospital service development.
+  Implications for practiceThis is the first study that demonstrates the
+  possibility of using go-along interviews and videoing with patients with
+  dementia staying in a hospital for environmental redesign. Researchers,
+  hospital leaders and designers should further explore strategies to best
+  support the involvement of patients with dementia in design and redesign
+  of hospital environments.
+DA 2017-08-30
+UT WOS:000407843000009
+PM 28418180
+ER
+
+PT J
+AU Mendes, Aysha
+TI Creating an appropriate environment for a person with dementia.
+DA 2017-11-23
+UT MEDLINE:29168952
+PM 29168952
+ER
+
+PT J
+AU Teresi, JA
+  Holmes, D
+  Ory, MG
+TI The therapeutic design of environments for people with dementia: Further
+  reflections and recent findings from the National Institute on Aging
+  collaborative studies of Dementia Special Care Units
+DA 2000-08-01
+UT WOS:000165311000003
+PM 10961030
+ER
+
+PT J
+AU Cha,, Su-Min
+  Hye-Jin, LEE.
+TI Analysis of Domestic Research Trends related to the Housing Environment
+  of the Elderly with Dementia at Home
+Z1 재가 치매노인의 주거환경 관련 국내 연구동향 분석
+AB Objective : The purpose of this study is to analyze the domestic
+  research trends related to the housing environment of the elderly with
+  dementia at home, thereby presenting the research direction necessary
+  for the development of a housing environment design for the elderly with
+  dementia at home and the establishment of policies that can contribute
+  to the improvement of the quality of life of the elderly with dementia
+  at home.Methods : From 2000 to 2020, according to the research selection
+  criteria, research trends were analyzed by searching articles registered
+  in the databases of Google Scholar, RISS, KISS, and the National Library
+  of Korea, and finally selecting a total of five studies.Results : As a
+  result of analyzing the qualitative level of the research, all of the
+  researches corresponded to Level IV(research study), and a questionnaire
+  survey and an in-depth interview were conducted. All studies conducted a
+  survey on housewives of the elderly with dementia, including spouses,
+  children, and daughter-in-law. As a result of analysis of main themes, 2
+  studies(40.0%) of housing environment improvement demands by type of
+  dementia, 1 study(20.0%) on housing environment improvement demands by
+  dementia symptom, 1 study(20.0%) on housing environment improvement
+  demands by dementia-related symptoms, 1 study(20.0%) on the demand for
+  improvement of housing environment by housing space was found.Conclusion
+  : In order to derive an efficient housing environment improvement plan
+  tailored to the elderly with dementia at home, changes in the housing
+  remodeling support system and related policies, preparation and review
+  of application plans for multidisciplinary approaches, and improvement
+  of the housing environment for the elderly with dementia, strengthen the
+  competence and expertise of occupational therapists in the field.
+  Multidimensional research for securing should be actively conducted.
+AK 목적 : 본 연구는 재가 치매노인의 주거환경 관련 국내 연구동향을 분석함으로써 향후 재가 치매노인의 맞춤형 주거환경 디자인 개발,
+  지역사회 재가 치매노인의 삶의 질 향상에 기여 할 수 있는 정책 수립에 필요한 연구방향을 제시하고자 한다.연구방법 :
+  2000년부터 2020년까지 연구 선정기준에 따라 Google Scholar, KISS, RISS, 국립중앙도서관 데이터 베이스에
+  등록된 논문을 검색하여 최종적으로 총 5편의 연구를 선정하여 연구동향을 분석하였다.연구결과 : 연구의 질적 수준을 분석한 결과,
+  모든 연구가 Level Ⅳ(조사연구)에 해당하였으며, 설문조사와 심층 면접조사를 실시하였다. 모든 연구가 배우자, 자녀, 며느리
+  등을 포함한 치매노인의 주부양자를 대상으로 조사를 실시하였다. 분석대상 연구 5편 모두가 치매노인의 주거환경 현황 및 개선요구를
+  큰 주제로 하였고, 주요 세부 주제는 치매 유형별 주거환경 개선요구도가 2편(40.0%), 치매증상 단계별 주거환경 개선요구도가
+  1편(20.0%), 치매 관련 증상별 주거환경 개선요구도가 1편(20.0%), 주거 공간별 주거환경 개선요구도가
+  1편(20.0%)으로 나타났다.결론 : 향후 효율적인 재가 치매노인의 맞춤형 주거환경 개선안이 도출되기 위해서는 주택개조 지원
+  제도 및 관련 정책의 변화, 다학제적 접근법에 대한 적용방안 마련 및 검토, 치매노인 주거환경 개선 관련 분야에서의 작업치료사
+  역량 강화 및 전문성 확보를 위한 다차원적인 연구가 활발히 이루어져야 할 것이다.
+DA 2021-06-22
+UT KJD:ART002676826
+ER
+
+PT J
+AU Doyle, Patrick J.
+  de Medeiros, Kate
+  Saunders, Pamela A.
+TI Nested social groups within the social environment of a dementia care
+  assisted living setting
+AB The social environments of people with dementia are complex and still
+  not fully understood. Investigating how residents in a dementia care
+  setting navigate and participate within social groups is critical as the
+  therapeutic benefits of social engagement are unequivocal. An
+  ethnographic study of social environments within a dementia care
+  residence revealed that there is active socialization and even strong
+  and lasting friendships formed between people with dementia. Many of
+  these relationships were observed to be a part of groups, 'nested'
+  within the larger social environment. These 'nested social groups' had
+  unique dynamics and their structuring was often influenced by outside
+  factors (e.g. physical environment and staff preferences). The existence
+  of these groups has implications for the experiences and quality of life
+  of the residents in long-term care. Nested social groups will be defined
+  and their function within the social environment will be discussed.
+DA 2012-05-01
+UT WOS:000209111800008
+ER
+
+PT J
+AU Brittain, Katherine
+  Corner, Lynne
+  Robinson, Louise
+  Bond, John
+TI Ageing in place and technologies of place: the lived experience of
+  people with dementia in changing social, physical and technological
+  environments
+AB This paper explores the varied meanings and lived experiences of older
+  people with dementia, in relation to everyday technologies in public
+  spaces outside the home, through re-analysis of qualitative data
+  generated from research that focused on the use of technology in
+  supporting people with dementia to carry on with their everyday outside
+  activities. The data have been re-analysed to critically examine how
+  people with memory loss manage being outside in both familiar and
+  unfamiliar public environments. In doing so the authors explore how
+  technologies mediate between the physical and social environment in
+  which people with dementia live. This paper highlights the importance of
+  a neglected space within dementia research, namely the outside public
+  environment. Although the outside environment and activities that take
+  place in that space, for some, are curtailed, for others the physical
+  and social security of familiar environments enables them to carry on
+  with everyday activities in this public realm. Outside space can be both
+  therapeutic and frightening and this paper demonstrates that people with
+  dementia can sometimes feel out of place in public space. It however
+  also shows the variety of ways people with dementia use everyday
+  technologies to manage 'feeling out of place'.
+DA 2010-02-01
+UT WOS:000274711000008
+PM 20003041
+ER
+
+PT J
+AU Bray, Jennifer
+  Evans, Simon
+  Bruce, Mary
+  Carter, Christine
+  Brooker, Dawn
+  Milosevic, Sarah
+  Thompson, Rachel
+  Longden, Jane
+  Robinson, Jennifer
+TI Improving the hospital environment for people with dementia.
+AB This article is the third in a series presenting examples of the
+  positive work achieved by trusts who participated in the Royal College
+  of Nursing's development programme to improve dementia care in acute
+  hospitals. The hospital environment is often disorientating for people
+  with dementia and can be particularly distressing when a patient is
+  admitted in an emergency. Subsequent ward moves can also be disruptive
+  and confusing, especially if they take place out of hours. Two NHS
+  trusts aimed to improve the experience for patients with dementia by
+  addressing the physical environment along with practical aspects of care
+  provision at different stages in the hospital journey. The Queen
+  Elizabeth Hospital King's Lynn NHS Foundation Trust in Norfolk enhanced
+  its emergency department environment by redesigning four bays and an
+  observation area to be dementia-friendly. The hospital has supported
+  these changes by providing dementia awareness training for all staff in
+  these areas. Walsall Healthcare NHS Trust focused on minimising ward
+  moves by implementing procedures to identify patients who should not be
+  moved. Since introducing the new process, adherence has been good and
+  there have been fewer ward moves. 
+DA 2015-11-05
+UT MEDLINE:26511422
+PM 26511422
+ER
+
+PT P
+AU JUNG H
+  KIM G H
+  KIM H B
+  KIM S W
+  KIM Y W
+  MYUNG H
+TI System for preventing/remedying dementia based on      virtual
+  reality using Internet
+AE ELECTRONICS&TELECOM RES INST
+AB 
+  NOVELTY - A system for preventing/remedying a dementia        
+  based on a virtual reality using the Internet is        provided
+  to enable a dementia patient to receive a        medical
+  treatment by making the dementia patient        receive a
+  medical examination in a remote place and        perform a
+  dementia treating scenario on a virtual        reality on the
+  Internet.
+  DETAILED DESCRIPTION - If a patient connects to a web server, a     
+  dementia web page is supplied on a web browser of        the
+  patient(S211). Personal information of the        patient
+  written in a member joining process(S213),        a patient
+  detailed questions table, and a reserved        time for a
+  medical examination are stored in a        member information
+  DB(S214). Thus, an environment        for a remote medical
+  examination between a doctor        and the patient and a
+  prescription is        supplied(S215). An environment capable of
+  treating        the patient is supplied in accordance with a  
+  scenario in a virtual reality prescribed by the        
+  doctor(S216). The result is stored in the member        
+  information DB, and the result is supplied to the        
+  doctor(S217). If a medical examination is received        from
+  the doctor again(S218), the above stages are        repeated.
+DA 2003-01-03
+UT DIIDW:2003226688
+ER
+
+PT J
+AU Marx, Fernanda
+  Retfalvi, Donat
+TI People with Dementia as Active Participants in Studies Related to the
+  Built Environment: A Systematic Review
+AB Studies about dementia in relation to the built environment have not
+  always include patients with dementia as active participants. This paper
+  presents a systematic review focusing on recent available literature on
+  people with dementia as active participants in studies related to the
+  physical environment. The aim is to analyze methods, adversities and
+  challenges of their involvement. A total of 14 studies were reviewed.
+  The results reinforce the fact that people with dementia offer unique
+  insights. Data collection methods should be adapted for their inclusion
+  as well as a more careful approach and a special attention regarding the
+  consent of participation.
+DA 2021-03-21
+UT WOS:000620681400005
+ER
+
+PT C
+AU Grave, Anne
+  Robben, Saskia
+  Oey, Michel
+  Ben Allouch, Somaya
+  Mohammadi, Masi
+GP IEEE
+TI Requirement Elicitation and Prototype Development of an Intelligent
+  Environment to Support People With Early Dementia
+AB In an aging population, the prevalence of people with dementia is
+  increasing. Intelligent environments can offer a solution to support
+  people in the early stages of dementia, who often experience problems
+  with maintaining their day-night rhythm. The focus of this work is
+  developing an Intelligent Environment for assisting these people with
+  their daily structure while living independently at home. Three
+  co-creation methods with several stakeholder groups were used to elicit
+  requirements and develop a prototype of an Intelligent Environment.
+  Participants were involved in sessions using Mind Maps (N=55), Idea
+  Generation Cards (N=35), and in a multidisciplinary design team with
+  representatives of eight organizations. The result of these sessions was
+  a set of 10 requirements for the Intelligent Environment on the
+  following topics: context-awareness, pattern recognition, adaptation,
+  support, personalization, autonomy, modularity, dementia proof
+  interaction, costs, data and privacy. Based on these requirements,
+  several scenarios were developed to explicate such an environment for
+  supporting people with early dementia. The design team translated the
+  requirements to a real-life prototype of an Intelligent Environment
+  integrated into a demonstration home. The prototype serves as a basis
+  for further development of Intelligent Environments to enable people
+  with dementia to live longer independently at home.
+CT 17th International Conference on Intelligent Environments (IE)
+CY JUN 21-24, 2021
+CL Middlesex Univ Dubai, ELECTR NETWORK
+HO Middlesex Univ Dubai
+SP IEEE; Middlesex Univ London; Sapienza Univ Roma; Univ Grenoble Alpes;
+  Queensland Univ Technol; IEEE Syst Man & Cybernet Soc; IOS Press; Assoc
+  Advancement Artificial Intelligence; Technol Innovat Inst; EPSON
+DA 2022-07-01
+UT WOS:000815053000004
+ER
+
+PT J
+AU Cui, Yuanwu
+  Shen, Minxue
+  Ma, Yan
+  Wen, Shi Wu
+TI Senses make sense: An individualized multisensory stimulation for
+  dementia
+AB Nonpharmacologic interventions have been recommended as first-line
+  treatments for dementia, and multisensory stimulation environment has
+  been used as a non-pharmacological treatment to dementia patients in the
+  last decade. However, the clinical effect of multisensory stimulation
+  environment remains temporary and uncertain. Individualized medicine has
+  been suggested to hold great promise in medicine, and it should be
+  equally important for dementia. Reminiscence integrating individual
+  experiences into therapeutic schemes has shown potential in the field of
+  improving cognitive functions and depressive symptoms for dementia
+  patients, and interactive music also demonstrated a positive outcome by
+  using individualized music for the hearing aspect. We therefore
+  hypothesize that an individualized multisensory stimulation in a natural
+  and realistic environment integrating personal experience may be an
+  effective intervention for patients suffering from dementia. (C) 2016
+  Elsevier Ltd. All rights reserved.
+DA 2017-03-08
+UT WOS:000393001900005
+PM 28012594
+ER
+
+PT J
+AU Chau, Hing-wah
+  Newton, Clare
+  Woo, Catherine Mei Min
+  Ma, Nan
+  Wang, Jiayi
+  Aye, Lu
+TI Design Lessons from Three Australian Dementia Support Facilities
+AB There is a significant increase in the number of people with dementia,
+  and the demand for residential support facilities is expected to
+  increase. Providing an appropriate living environment for residents with
+  dementia, which can cater for their specific needs is crucial.
+  Residential aged care design can impact the quality of life and
+  wellbeing of the residents. In this investigation, three recently
+  constructed dementia support facilities in Victoria, Australia are
+  selected for evaluation. Through fieldwork observation, design
+  evaluation and space syntax analysis, the aim of this investigation is
+  to consider the design of these three facilities in the context of
+  current evidence on how the built environment can best accommodate
+  residents with dementia.
+DA 2018-06-28
+UT WOS:000435191100005
+ER
+
+PT J
+AU Kodama, Keiko
+  Oshima, Chiho
+TI [Considerations for home environment of patients with dementia].
+DA 2007-01-01
+UT MEDLINE:17969957
+PM 17969957
+ER
+
+PT J
+AU Silverman, Marjorie
+TI 'We have different routes for different reasons': Exploring the purpose
+  of walks for carers of people with dementia
+AB This paper explores the purpose of walks for co-residing carers of
+  people with dementia, using a social citizenship lens. The findings are
+  based on the first phase of a study examining the everyday experiences
+  of place, space, and neighbourhood of dementia carers. Using three forms
+  of data collection - social network mapping, walking interviews, and
+  participant-driven photography - the study brings forth information
+  about why carers go on walks either alone or with the person with
+  dementia. Carers explained that walks facilitate their connections with
+  themselves, the person with dementia, their social environment, and
+  their natural and built environment. In sum, walks provide a way of
+  practicing and sustaining social citizenship. Carers' discourse about
+  walks highlights their personal, everyday practices and strategies, as
+  well as the larger tensions and contradictions of dementia care. The
+  findings reinforce the need to bring into dialogue, from a carer
+  perspective, a social citizenship model of dementia with the growing
+  interest in dementia-friendly communities.
+DA 2019-03-01
+UT WOS:000458858300013
+PM 28350177
+ER
+
+PT J
+AU Poey, J. L.
+TI THE SOCIAL ENVIRONMENT, APOE E4, AND DEMENTIA: THE SOCIAL ENVIRONMENT AS
+  A MODERATING FACTOR AMONG INDIVIDUALS GENETICALLY PREDISPOSED TO DEVELOP
+  DEMENTIA
+DA 2015-03-04
+UT WOS:000346337500059
+ER
+
+PT J
+AU Inoue, Makoto
+  Kimoto, Katsuhiko
+  Honma, Yuta
+  Tomita, Rintaro
+  Manabe, Yuta
+TI Oral environment and cerebral blood flow in patients with
+  neurodegenerative dementia: comparison of Alzheimer type dementia and
+  dementia with Lewy bodies
+EA OCT 2022
+AB Background The number of patients with dementia is increasing worldwide.
+  Modifying risk factors may significantly reduce the prevalence and cost
+  of dementia. The number of remaining teeth, occlusal force, denture use,
+  and periodontal disease status are associated with the risk of
+  developing dementia. The oral environment may be a risk factor for
+  dementia. This study aimed to investigate the association between the
+  oral environment and cerebral blood flow in patients with mild cognitive
+  impairment and dementia (either Alzheimer type dementia (ATD) or
+  dementia with Lewy bodies (DLB)). We aimed to identify differences in
+  the oral environment according to the underlying neurodegenerative
+  disease. Methods The participants were 25 patients with ATD and 25
+  patients with DLB who visited the Department of Dementia and Geriatric
+  Medicine, Kanagawa Dental University Hospital. Patients were diagnosed
+  with ATD and DLB by well-trained specialists certified by the Japanese
+  Dementia Society and categorised as Level 3 or 4 by the Functional
+  Assessment Staging of Alzheimer Disease scale. The correlation between
+  oral environment (number of teeth, periodontal tissue, and oral
+  function) and cerebral blood flow in each brain area calculated by
+  single photon emission computed tomography was examined. Results The DLB
+  group showed a significant correlation between masticatory performance
+  and cerebral blood flow in some areas, while no such correlation was
+  observed in the ATD group. Significant correlations were found between
+  periodontal pocket depth and bleeding on probing and cerebral blood flow
+  in some areas in both groups, although the correlation was considerable
+  in the ATD group. Conclusions The results of this study suggest that the
+  association between changes in the oral environment and cerebral blood
+  flow may differ among patients with ATD and DLB, depending on the
+  underlying causative disease.
+DA 2022-10-31
+UT WOS:000871440700001
+PM 36273804
+ER
+
+PT J
+AU Digby, Robin
+  Bloomer, Melissa J
+TI People with dementia and the hospital environment: the view of patients
+  and family carers.
+AB BACKGROUND: A metropolitan geriatric evaluation and management (GEM)
+  facility in Australia was undergoing expansion, and consideration for
+  the needs of individuals with dementia and their family carers was
+  identified as important in planning the new facility. Existing
+  literature revealed that people in hospital value privacy, minimal
+  noise, family amenities and homeliness, but these findings did not
+  consider the perspectives of the person with dementia specifically.
+  AIM: The aim was to elicit the perspectives of current inpatients with
+  dementia, and their family carers, about the environment/design features
+  that they believe are necessary for people with dementia, and their
+  family carers.
+  METHOD AND DESIGN: This qualitative study utilised in-depth
+  semi-structured interviews to obtain information from current inpatients
+  with dementia and their family carers.
+  RESULTS: Participants described how the care received was more important
+  than the physical environment; however, participants also valued
+  homeliness, privacy for the patient and for conversations, a shared
+  space without a television and a connection to the outside. Participants
+  described how accommodating carers, providing quiet spaces and
+  appropriate amenities were also important.
+  CONCLUSIONS: While participants valued care over the physical
+  surroundings, they also offered valuable information about their
+  experience in the ward environment. Despite cognitive difficulties,
+  people with dementia were able to provide useful information about the
+  environment within which they were being cared.
+  IMPLICATIONS FOR PRACTICE: Consumer opinions about hospital
+  design/environment should be considered as an important source of data.
+  Privacy and personal space for people with dementia and their family
+  carers, a connection with the outside environment , and the needs of
+  carers and visitors are all important considerations when designing
+  healthcare environments.
+DA 2014-04-24
+UT MEDLINE:23320624
+PM 23320624
+ER
+
+PT J
+AU Liu, Chih-Ching
+  Sun, Yu
+  Kung, Shiann-Far
+  Kuo, Hsien-Wen
+  Huang, Nuan-Ching
+  Li, Chung-Yi
+  Hu, Susan C.
+TI Effects of physical and social environments on the risk of dementia
+  among Taiwanese older adults: a population-based case-control study
+AB Background Physical and social environments may influence cognition
+  health in older adults. However, evidence regarding physical and social
+  environments linked to dementia is lacking, especially in Asia. This
+  study aims to explore the influence of physical and social environments
+  on the incidence of dementia through a population-based case-control
+  design in Taiwan. Methods We identified 26,206 incident cases with
+  dementia aged >= 65 years in 2010, with the same no. of controls from
+  National Health Insurance claims. Environmental measures were collected
+  from government statistics including three physical environments and
+  three social environments. Multilevel logistic regression was used to
+  estimate the odds ratios (ORs) and 95% confidence intervals (CI) of the
+  association between dementia incidence and the environmental measures at
+  the township level. Results We observed a significant reduction of 12%
+  in the odds ratios of dementia in areas with higher availability of
+  playgrounds and sport venues (OR 0.88, 95% CI 0.81-0.95), after
+  controlling for individual and other environmental characteristics.
+  Community center availability was also significantly associated with an
+  8% decreased odds for dementia (OR 0.92, 95% CI 0.87-0.99), but the
+  association was not significant after further consideration of
+  individual-level characteristics. Although higher odds of dementia were
+  found in areas with high median annual family income (OR 1.14, 95% CI
+  1.04-1.25), such a significant relationship did not appear in the full
+  model. Conclusions Our study suggests that specific physical and social
+  environmental features have different influences on the risk of
+  dementia. Public health interventions may consider these environmental
+  aspects for preventing dementia incidence.
+DA 2020-07-17
+UT WOS:000545750700002
+PM 32590941
+ER
+
+PT J
+AU Yao, Lan
+  Algase, Donna
+TI Emotional intervention strategies for dementia-related behavior: A
+  theory synthesis
+AB Behavioral disturbances of elders with dementia are prevalent. Yet the
+  science guiding development and testing of effective intervention
+  strategies is limited by rudimentary and often-conflicting theories.
+  Using a theory-synthesis approach conducted within the perspective of
+  the need-driven dementia-compromised behavior model, this article
+  presents the locomoting responses to environment in elders with dementia
+  (LRE-EWD) model. This new model, based on empirical and theoretical
+  evidence, integrates the role of emotion with that of cognition in
+  explicating a person-environment dynamic supporting wandering and other
+  dementia-related disturbances. Included is evidence of the theory's
+  testability and elaboration of its implications. The LRE-EWD model
+  resolves conflicting views and evidence from current research on
+  environmental interventions for behavior disturbances and opens new
+  avenues to advance this field of study and practice.
+DA 2008-04-01
+UT WOS:000256163900010
+PM 18481741
+ER
+
+PT J
+AU Yates-Bolton, Natalie
+  Codinhoto, Ricardo
+TI Dementia: getting the environment right.
+AB An IHEEM-supported conference staged recently at Salford University by
+  the University's Dementia Design Group (HEJ - November 2012), examined
+  the impact that different hospital environments have on people with
+  dementia. Ricardo Codinhoto of the International Dementia Design
+  Network, a qualified architect with practical, teaching, and research
+  experience, and his co-chair on the Network, Natalie Yates-Bolton, a
+  lecturer in Nursing at the University, explain the thinking behind the
+  Group's approach to well-designed mental healthcare environments, and
+  report on some of the key topics discussed at this first ever National
+  Dementia Design Conference.
+DA 2013-03-01
+UT MEDLINE:23573689
+PM 23573689
+ER
+
+PT J
+AU Klie, T
+  Schmidt, R
+TI Dementia and live environment
+DA 2002-06-01
+UT WOS:000176733800001
+PM 12219701
+ER
+
+PT J
+AU Campo, Michael
+  Chaudhury, Habib
+TI Informal social interaction among residents with dementia in special
+  care units: Exploring the role of the physical and social environments
+AB Despite a continued recognition of the importance of relational aspects
+  of quality of life for people with dementia, little research has
+  examined environmental influences on informal social interaction in
+  dementia care settings. The purpose of this ethnographic study was to
+  identify and explore key elements of the physical and social
+  environments that act as facilitators or barriers for social interaction
+  among people with dementia living in special care units. We conducted
+  in-depth interviews with staff members and completed a series of
+  resident observations. Findings suggest that social factors such as
+  staff work roles and resident group size, and physical factors such as a
+  non-institutional character, the nursing station location, and adequate
+  seating and sightlines are influential for prompting or supporting
+  informal social interactions. Design recommendations are provided with
+  the intent to create physical environments that foster informal social
+  interactions among people in dementia care environments.
+DA 2012-05-01
+UT WOS:000209111800009
+ER
+
+PT J
+AU Kristiansen, Susanne
+  Olsen, Lotte Schelde
+  Beck, Malene
+TI Hospitality in dementia-friendly environments is significant to
+  caregivers during hospitalisation of their loved ones. A qualitative
+  study
+EA JUN 2022
+AB Aim and objectives To explore what is meaningful to caregivers in
+  relation to a dementia-friendly environment during hospitalisation of
+  their loved ones with dementia or cognitive impairment. Background
+  Implementation of dementia-friendly initiatives and person-centred care
+  approach have shaped the political agenda within Danish society.
+  Patients with dementia or cognitive impairment and their accompanying
+  caregivers are challenged when admitted to hospital. During
+  hospitalisation, caregivers find themselves in a vulnerable state of
+  mind. Thus, the implementation of a dementia-friendly environment and
+  adherence to person-centred care in hospital settings leaves room for
+  improvement. Methods This study was guided by a qualitative and
+  explorative approach. Data were collected through 17 semi-structured
+  interviews with caregivers at a subacute neurological ward. Thematic
+  analysis was employed to interpret data. The study reports according to
+  the COREQ checklist. Results The following three themes were identified:
+  1) Being a watchful bystander. 2) Visiting an undefined and foreign
+  environment. 3) Longing for kindness. Conclusion Hospitality expressed
+  by staff towards caregivers is significant in allowing caregivers to
+  experience hospital environments as "friendly." Dementia-friendly
+  environments embrace existential aspects that go far beyond physical
+  spaces; hence, experiences of kind acts shape caregivers' sense of
+  safety and comfort during hospitalisation. Hospitality is an essential
+  part of nursing in dementia care because caregivers are contextually
+  vulnerable. Our study sheds new light on the provision of person-centred
+  care to people with dementia and their families in healthcare. Relevance
+  to clinical practice Nurses need to be aware that caregivers experience
+  vulnerability and to involve caregivers in the care provided for
+  patients with dementia. We recommend that a permanent contact person be
+  appointed to follow patients throughout their admission period.
+  Furthermore, systematic interventions focusing on phenomena such as
+  hospitality and kindness may serve to form a person-centred clinical
+  culture; an issue that warrants further investigation.
+DA 2022-06-22
+UT WOS:000809682600001
+PM 35692079
+ER
+
+PT J
+AU Whall, A L
+TI Disruptive behavior in late stage dementia: using natural environments
+  to decrease distress.
+DA 1995-10-01
+UT MEDLINE:7594251
+PM 7594251
+ER
+
+PT J
+AU Hermann, D. M.
+  Muck, S.
+  Nehen, H. -G.
+TI Supporting dementia patients in hospital environments: health-related
+  risks, needs and dedicated structures for patient care
+AB The diagnostics and treatment of dementia are progressively gaining
+  importance for European neurologists. Our hospital structures are poorly
+  prepared for patients suffering from dementia. As a consequence of
+  cognitive and physical deficits, dementia patients have an increased
+  risk for serious complications and poor outcomes in hospital
+  environments. In this review, the specific needs of dementia patients
+  are outlined, describing how geriatricians, neurologists and
+  psychiatrists may contribute to better patient care, e.g. with
+  consultation or liaison services, geriatric wards, dedicated dementia
+  wards or memory clinics in interaction with nurses, occupational
+  therapists, physiotherapists, speech therapists, psychologists and
+  social workers. Due to their multifaceted needs, dementia patients can
+  most successfully be supported in clinical environments that closely
+  integrate specialized inpatient, outpatient and primary care offers.
+DA 2015-02-22
+UT WOS:000347701300005
+PM 25103994
+ER
+
+PT J
+AU Lippa, Carol F.
+TI Changing Environment and Activities for the Patients With Dementia: What
+  Can We do to Ease the Burden?
+DA 2010-05-01
+UT WOS:000277307100001
+PM 20439920
+ER
+
+PT J
+AU Stargatt, Jennifer
+  Doube, Wendy
+  Bhar, Sunil
+  Petrovich, Tanya
+  McGuire, Liam
+  Willison, Aaron
+TI Increasing understanding of environmental modifications using the
+  Virtual Dementia Experience for professional carers of people living
+  with dementia
+EA AUG 2021
+AB Modifications to the environment can have a positive impact on the
+  person living with dementia. The purpose of this study was to examine
+  the effects of a virtual reality (VR) educational workshop on improving
+  understanding of the impact of environments for people living with
+  dementia for carers in residential aged care facilities in Australia.
+  Participants were nonrandomly allocated to one of two conditions: a VR
+  condition which enabled them to take the perspective of a person living
+  with dementia as they navigate a home environment (n = 40), or to a
+  non-VR condition, in which participants received equivalent information
+  in a classroom without the use of VR (n = 56). Participants completed a
+  purpose-built pictorial measure of their understanding of environmental
+  factors that could impact on people with dementia before and after the
+  workshop. Following education, an analysis of covariance revealed that
+  compared to non-VR education, those who received VR education identified
+  a significantly greater number of appropriate environmental
+  modifications, after adjusting for practice test scores. The results
+  from this study demonstrate the utility of VR as a promising tool to
+  improve carers' understanding of the ways in which the environment can
+  be modified to assist people living with dementia.
+DA 2021-08-28
+UT WOS:000687109400001
+PM 34420471
+ER
+
+PT J
+AU Nygard, A M
+TI [The role of environment in the development of senile dementia].
+FT Miljoets rolle for utvikling av senil demens.
+DA 1986-01-01
+UT MEDLINE:3737389
+PM 3737389
+ER
+
+PT J
+AU Woodbridge, R.
+  Sullivan, M. P.
+  Harding, E.
+  Crutch, S.
+  Gilhooly, K. J.
+  Gilhooly, M. L. M.
+  McIntyre, A.
+  Wilson, L.
+TI Use of the physical environment to support everyday activities for
+  people with dementia: A systematic review
+AB Difficulty with everyday activities is a key symptom and defining
+  feature of dementia, relating to subjective reports of well-being and
+  overall quality of life. One way to support individuals in their daily
+  activities is by modifying the physical environment to make it easier to
+  interact with during activity performance. This systematic review
+  explores the range of studies available using physical environmental
+  strategies to support performance in everyday activities for people with
+  dementia. Seventy-two relevant studies were identified by the search.
+  Physical environmental strategies included changes to the global
+  environment and to architectural features, use of moveable environmental
+  aids and tailored individual approaches. Strategies supported general
+  everyday activity functioning (N=19), as well as specific activities,
+  particularly mealtimes (N=15) and orientation in space (N=16); however,
+  few studies were found that focused on aspects of personal care such as
+  dressing (N=1) and showering or the preferred hobbies of individuals
+  (N=0). Overall, there appeared to be a lack of research within private
+  home environments, and of studies which specify the dementia syndrome or
+  the whole neuropsychological profile of people with dementia. More work
+  is needed to extend theoretical understandings of how people with
+  dementia interact with their environments so that these spaces can be
+  designed to further support activities of daily living performance.
+  Future work in this field could also incorporate the perspectives and
+  preferences of those living with dementia.
+DA 2018-07-27
+UT WOS:000438565500001
+PM 27491332
+ER
+
+PT J
+AU O'Malley, Mary
+  Innes, Anthea
+  Wiener, Jan M.
+TI Decreasing spatial disorientation in care-home settings: How psychology
+  can guide the development of dementia friendly design guidelines
+AB Alzheimer's disease results in marked declines in navigation skills that
+  are particularly pronounced in unfamiliar environments. However, many
+  people with Alzheimer's disease eventually face the challenge of having
+  to learn their way around unfamiliar environments when moving into
+  assisted living or care-homes. People with Alzheimer's disease would
+  have an easier transition moving to new residences if these larger, and
+  often more institutional, environments were designed to compensate for
+  decreasing orientation skills. However, few existing dementia friendly
+  design guidelines specifically address orientation and wayfinding. Those
+  that do are often based on custom, practice or intuition and not well
+  integrated with psychological and neuroscientific knowledge or
+  navigation research, therefore often remaining unspecific. This paper
+  discusses current dementia friendly design guidelines, reports findings
+  from psychological and neuropsychological experiments on navigation and
+  evaluates their potential for informing design guidelines that decrease
+  spatial disorientation for people with dementia.
+DA 2017-11-03
+UT WOS:000411446700004
+PM 26112167
+ER
+
+PT J
+AU Fleming, Richard
+  Goodenough, Belinda
+  Low, Lee-Fay
+  Chenoweth, Lynn
+  Brodaty, Henry
+TI The relationship between the quality of the built environment and the
+  quality of life of people with dementia in residential care
+AB While there is considerable evidence on the impact of specific design
+  features on problems associated with dementia, the link between the
+  quality of the built environment and quality of life of people with
+  dementia is largely unexplored. This study explored the environmental
+  and personal characteristics that are associated with quality of life in
+  people with dementia living in residential aged care. Data were obtained
+  from 275 residents of 35 aged care homes and analysed using linear
+  regression. The quality of the built environment was significantly
+  associated with the quality of life of the resident measured by global
+  self-report. Environmental ratings were not associated with proxy or
+  detailed self-report ratings. Higher quality of life is associated with
+  buildings that facilitate engagement with a variety of activities both
+  inside and outside, are familiar, provide a variety of private and
+  community spaces and the amenities and opportunities to take part in
+  domestic activities.
+DA 2016-07-01
+UT WOS:000379174500013
+PM 24803645
+ER
+
+PT J
+AU Rhodes-Kropf, Jennifer
+  Cheng, Huai
+  Castillo, Elizabeth Herskovits
+  Fulton, Ana Tuya
+TI Managing the Patient with Dementia in Long-Term Care
+AB The majority of residents in a nursing home have some degree of
+  dementia. The prevalence is commonly from 70% to 80% of residents. This
+  article covers the following topics on caring for patients with dementia
+  in long-term care: (1) the efficacy of cholinesterase inhibitors and
+  memantine, (2) the optimal environment for maintenance of function in
+  moderate dementia, (3) the treatment of depression and agitation, and
+  (4) the evaluation and management of eating problems.
+DA 2011-05-01
+UT WOS:000292169600003
+PM 21641502
+ER
+
+PT J
+AU Bower, H M
+TI The differential diagnosis of dementia.
+DA 1971-09-18
+UT MEDLINE:5114175
+PM 5114175
+ER
+
+PT J
+AU Waller, Sarah
+TI A better dementia care environment.
+AB Sarah Waller CBE, RGN, FRSA, programme director at The King's Fund's
+  Enhancing the Healing Environment (EHE) programme, examines the work
+  undertaken to date, and still ongoing, to improve the care environment
+  for people living with dementia. At a time when estates and facilities
+  budgets are tight, she argues that, as several successful King's Fund
+  projects completed to date show, good schemes, that can have a
+  significant impact on the lives of dementia patients being cared for in
+  healthcare facilities, need by no means 'break the bank'.
+DA 2012-02-01
+UT MEDLINE:22536676
+PM 22536676
+ER
+
+PT J
+AU Camino, Julieta
+  Kishita, Naoko
+  Trucco, Ana P.
+  Khondoker, Mizanur
+  Mioshi, Eneida
+TI A New and Tidier Setting How Does Environmental Clutter Affect People
+  With Dementia's Ability to Perform Activities of Daily Living?
+AB Background: The relationship between the physical environment and the
+  person with dementia's (PwD) activities of daily living (ADLs) task
+  performance is controversial. Although the general assumption is that
+  this population benefits from their home environment when performing
+  ADLs, very few experimental studies have been conducted to date.
+  Objectives: The aim was to investigate the influence of the environment
+  (home vs. Research-lab) and the role of clutter on ADL performance.
+  Methods: Sixty-five PwD were evaluated with a performance-based ADL
+  assessment (at home and clutter-free Research-lab). Paired t tests
+  compared ADL performance and level of clutter in both environments.
+  Multiple regression analysis investigated factors associated with better
+  ADL performance. Results: Overall, PwD performed better at home even
+  though clutter was significantly lower in the Research-lab. When
+  stratified by dementia stage, PwD in the moderate stage of the disease
+  performed better at home. Conclusion: Absence of clutter in the
+  Research-Lab did not appear to play a beneficial role in ADLs. When
+  stratified by dementia stage, only PwD in the moderate stage appeared to
+  benefit from their home environment when performing ADL tasks. Future
+  studies are required to elucidate the wider role of the environment in
+  supporting engagement in daily activities in different dementia stages.
+DA 2021-11-28
+UT WOS:000720434200007
+PM 34393190
+ER
+
+PT P
+AU FUYUKI M
+TI Dementia patient going-out assistance system used      for
+  supporting outing behavior of dementia patient in      road
+  environment, has support unit that is configured      to collate
+  detected patient status data with reference      status
+AE FUYUKI GAKUEN SCHOOL CORP
+AB 
+  NOVELTY - The system has a patient terminal that is worn        
+  on the patient's body. The patient terminal is        provided
+  with a position detecting unit, a state        detecting unit
+  (11) is provided for detecting a        patient's state data, a
+  voice input/output unit        (14), a video input unit (12),
+  and a voice        recognition unit (13). The navigation unit
+  (31) is        configured to execute navigation by a guide voice
+  corresponding to the outing schedule and at the        same
+  time. The support unit (32) is configured to        collate the
+  detected patient status data with the        reference status
+  data and collates the detected        patient status data with
+  the reference status data.        The countermeasure for
+  outputting a predetermined        support voice corresponding to
+  the symptom is        executed when a dementia symptom defined
+  in the        parameter table is detected.
+  USE - Dementia patient going-out assistance system        used
+  for supporting outing behavior of dementia        patient in
+  road environment, public transportation,        public
+  facilities, etc.
+  ADVANTAGE - The probability of success of the patient        
+  going out alone is improved by returning to the        schedule.
+  The progression of dementia is suppressed        and the quality
+  of life is improved. The redundancy        of the changed
+  schedule is increased and further        delay is less likely to
+  occur, so that the burden        on the patient is reduced. The
+  burden and anxiety        of the caregiver is reduced, and
+  responds quickly        to unexpected emergencies.
+  DESCRIPTION Of DRAWING(S) - The drawing shows a schematic view of    
+  dementia patient going-out assistance system.        (Drawing
+  includes non-English language text)State detecting unit (11)Video input
+  unit (12)Voice recognition unit (13)Voice input-output unit
+  (14)Navigation unit (31)Support unit (32)
+DA 2021-05-22
+UT DIIDW:202138620J
+ER
+
+PT J
+AU Toivonen, Kristiina
+  Charalambous, Andreas
+  Suhonen, Riitta
+TI A caring and living environment that supports the spirituality of older
+  people with dementia: A hermeneutic phenomenological study
+EA DEC 2022
+AB Introduction: Meeting spiritual needs is an important part of the
+  quality of nursing for older people living with dementia. The
+  spirituality-supportive caring and living environment has rarely been
+  studied, even though the environment plays an important role in
+  supporting the well-being of older people with dementia.Aim: To further
+  understanding about the spirituality-supportive elements of a caring and
+  living environment from the perspective of older people with dementia
+  and their family members.Design, setting and participants: We adapted
+  hermeneutic phenomenology as a philosophical background and
+  methodological approach in this study. After receiving the approval of
+  the researcher's University Ethics Committee, a purposive sample of ten
+  older people with dementia and their nine family members, in home care
+  and long-term care settings in Southern Finland were recruited for
+  interviews.Methods: An interview-based study was conducted using
+  photography to collect the data. The in-depth interviews were conducted
+  in dyads between September 2017 and March 2020 and transcribed verbatim.
+  Thematic analysis was used to interpret the data.Results: Spirituality
+  was seen as a continuum within human life, manifested through the
+  environment even if older people with dementia were unable to express
+  themselves. The spirituality experiences of the participants within the
+  caring and living environment were summarized into three themes: "Where
+  do I belong?", "What remains of me in the world?" and "Where am I
+  going?" The older people, their family members and other people involved
+  in their care provided a caring and living environment that supported
+  spirituality with opportunities to seek answers to these questions
+  through to the meaning of their life.Discussion and conclusions: This
+  hermeneutic phenomenological study provides a new insight into the
+  environment that supports the spirituality of older people with
+  dementia. The elements of caring and living environment can remind older
+  people with dementia of what supports their own way of thinking about
+  spirituality and brings meaning to their life. Therefore, spirituality
+  is worth of considering when planning a caring and living environment
+  that supports what is important to the personhood of older people with
+  dementia. Tweetable abstract: Spirituality is worth of considering when
+  planning a caring and living environment that supports what is important
+  to the personhood of older people with dementia.(c) 2022 The Author(s).
+  Published by Elsevier Ltd. This is an open access article under the CC
+  BY license (http:// creativecommons.org/licenses/by/4.0/).
+DA 2023-02-04
+UT WOS:000911123500001
+PM 36549146
+ER
+
+PT J
+AU Olsen, R V
+  Hutchings, B L
+  Ehrenkrantz, E
+TI The physical design of the home as a caregiving support: an environment
+  for persons with dementia.
+DA 1999-01-01
+UT MEDLINE:10644296
+PM 10644296
+ER
+
+PT J
+AU Waller, Sarah
+  Masterson, Abigail
+  Evans, Simon C.
+TI The development of environmental assessment tools to support the
+  creation of dementia friendly care environments: Innovative practice
+AB The need for more dementia friendly design in hospitals and other care
+  settings is now widely acknowledged. Working with 26 NHS Trusts in
+  England as part of a Department of Health commissioned programme, The
+  King's Fund developed a set of overarching design principles and an
+  environmental assessment tool for hospital wards in 2012. Following
+  requests from other sectors, additional tools were developed for
+  hospitals, care homes, health centres and housing with care. The tools
+  have proven to be effective in both disseminating the principles of
+  dementia friendly design and in enabling the case to be made for
+  improvements that have a positive effect on patient outcomes and staff
+  morale. This paper reports on the development, use and review of the
+  environmental assessment tools, including further work that is now being
+  taken forward by The Association for Dementia Studies, University of
+  Worcester.
+DA 2017-04-05
+UT WOS:000394659600007
+PM 26935946
+ER
+
+PT J
+AU Nygard, L
+  Bernspang, B
+  Fisher, A G
+  Winblad, B
+TI Comparing motor and process ability of persons with suspected dementia
+  in home and clinic settings.
+AB OBJECTIVES: Evaluating functional level of persons with diagnosed or
+  suspected dementia is an important part of occupational therapy. The
+  importance of the environment is often highlighted. We investigated the
+  ability of clients with suspected dementia to perform instrumental
+  activities of daily living (IADLs) in the clinic versus in their homes.
+  METHOD: We used the Assessment of Motor and Process Skills (AMPS) to
+  measure the motor and process skill ability of 19 clients with suspected
+  dementia.
+  RESULTS: Using two-tailed paired t-tests, we found no overall difference
+  in IADL motor or process performance between the clinic and home
+  setting. However, of the 19 clients, 6 had motor ability measures,
+  whereas 5 had process ability measures that differed significantly
+  between the two settings.
+  CONCLUSION: The results suggest that if we want to know how a person
+  with suspected dementia performs in IADLs in a specific environment we
+  should test him or her in that environment.
+DA 1994-08-01
+UT MEDLINE:7943157
+PM 7943157
+ER
+
+PT J
+AU Mazzei, Francesco
+  Gillan, Roslyn
+  Cloutier, Denise
+TI Exploring the Influence of Environment on the Spatial Behavior of Older
+  Adults in a Purpose-Built Acute Care Dementia Unit
+AB Limited research explores the experience of individuals with dementia in
+  acute care geriatric psychiatry units. This observational case study
+  examines the influence of the physical environment on behavior
+  (wandering, pacing, door testing, congregation and seclusions) among
+  residents in a traditional geriatric psychiatry unit who were then
+  relocated to a purpose-built acute care unit. Purpose-built environments
+  should be well suited to the needs of residents with dementia. Observed
+  trends revealed differences in spatial behaviors in the pre- and
+  post-environments attributable to the physical environment.
+  Person-centred modifications to the current environment including
+  concerted efforts to know residents are meaningful in fostering quality
+  of life. Color coded environments (rooms vs dining areas etc.) to
+  improve wayfinding and opportunities to personalize rooms that address
+  the 'hominess' of the setting also have potential. Future research could
+  also seek the opinions of staff about the impact of the environment on
+  them as well as residents.
+DA 2014-06-01
+UT WOS:000340200800004
+PM 24381136
+ER
+
+PT J
+AU Devos, Paul
+  Aletta, Francesco
+  Thomas, Pieter
+  Petrovic, Mirko
+  Vander Mynsbrugge, Tara
+  Van de Velde, Dominique
+  De Vriendt, Patricia
+  Botteldooren, Dick
+TI Designing Supportive Soundscapes for Nursing Home Residents with
+  Dementia
+AB Sound and its resulting soundscape is a major appraisal component of the
+  living environment. Where environmental sounds (e.g., outdoor traffic
+  sounds) are often perceived as negative, a soundscape (e.g., containing
+  natural sounds) can also have a positive effect on health and
+  well-being. This supportive effect of a soundscape is getting increasing
+  attention for use in practice. This paper addresses the design of a
+  supportive sonic environment for persons with dementia in nursing homes.
+  Starting from a review of key mechanisms related to sonic perception,
+  cognitive deficits and related behavior, a framework is derived for the
+  composition of a sonic environment for persons with dementia. The
+  proposed framework is centered around using acoustic stimuli for
+  influencing mood, stimulating the feeling of safety and triggering a
+  response in a person. These stimuli are intended to be deployed as added
+  sounds in a nursing home to improve the well-being and behavior of the
+  residents.
+DA 2019-12-02
+UT WOS:000507312700026
+PM 31817300
+ER
+
+PT J
+AU Anderson, Diana C.
+  Kota, Shalini S.
+  Yeh, Leigh
+  Budson, Andrew E.
+TI Built Environment Design Interventions at the Exits of Secured Dementia
+  Care Units: A Review of the Empirical Literature
+EA OCT 2022
+AB Purpose: To review evidence around design interventions that influence
+  exiting attempts in dementia care units, informing architectural and
+  clinical practice. Background: Built environment design is recognized as
+  important in the care and management of responsive behaviors for those
+  living with Alzheimer's disease and other dementias in secured dementia
+  care units (e.g., exiting attempts, agitation). The repetitious behavior
+  of "walking with purpose" (previously termed wandering) in those with
+  dementia has influenced safety-related architectural design components
+  of dementia care units that decrease exiting attempts. Empirical
+  literature addressing design interventions to prevent exiting for those
+  with dementia is lacking and outdated. Methods: We sought to describe
+  known design techniques through a topical analysis of experimental
+  studies. A thorough search for empirical studies that assessed interior
+  design interventions at exit doors within dementia care units was
+  undertaken. The review included an extensive search for existing
+  literature and a screening of each study identified for its relevance,
+  quality, and applicability. Results: The experimental studies included
+  in the review collectively assessed five interior design interventions
+  at egress doorways: implementing horizontal and vertical floor grid
+  patterns, mirrors, murals, conditioning responses to color cues, and
+  camouflaging door hardware or vision panels. Why empirical studies have
+  not continued more recently as built environment trends have shifted
+  toward promoting meaningful and purposeful movement through design are
+  considered. Advances in our understanding around the pathophysiology of
+  dementia which might affect future design interventions related to
+  egress are also identified. Conclusion: The built environment is an
+  important part of dementia care, and further prospective research is
+  needed on the role of design interventions in the context of exiting
+  attempts within secured units and subsequent behavior outcomes.
+DA 2022-10-18
+UT WOS:000865577500001
+PM 36214202
+ER
+
+PT J
+AU MacRae, Rhoda
+  Papadopoulou, Constantina
+TI Managing a Dual Diagnosis of Cancer and Dementia in an Acute Setting:
+  Considerations, Implications, and Future Recommendations
+EA NOV 2021
+AB Objectives: To present an overview of the issues related to the
+  well-being of people affected by cancer and dementia. To highlight the
+  evidence from dementia care that can help improve the care experiences
+  of people with dementia and cancer. Data Sources: Electronic databases
+  such as PubMed and CINAHL were used to retrieve relevant literature
+  published between 2010 and 2020. Conclusion: Having a dual diagnosis of
+  dementia and cancer poses several challenges across the cancer care
+  pathway. Communication, treatment decision-making, environment ,and
+  time-related issues were all identified. The literature suggests the
+  need for evidence-based guidelines taking into consideration the person
+  and the environment to support this population. Implications for Nursing
+  Practice: To address these challenges and offer an optimal care
+  experience for this group and their families, solutions need to focus
+  both on the workforce and the environment. Offering dementia education
+  for professionals working in acute cancer care, as well as adapting
+  local environments that facilitate people navigate the space can be a
+  starting point to offer person-centered, rights-based dementia sensitive
+  care. (c) 2021 Elsevier Inc. All rights reserved.
+DA 2021-12-22
+UT WOS:000729964200011
+PM 34753641
+ER
+
+PT J
+AU Diaz-Gil, Alicia
+  Brooke, Joanne
+  Kozlowska, Olga
+  Pendlebury, Sarah
+  Jackson, Debra
+TI Care needs of people with dementia in the peri-operative environment: A
+  systematic review
+AB The care of people with dementia within the hospital setting is
+  challenging for healthcare professionals. Hospital design and services
+  are not optimized for people with dementia, owing to the lack of
+  preparation of healthcare professionals and the busy environment of the
+  acute hospital. The peri-operative environment may present particular
+  difficulties but little is known about the experience and care of people
+  with dementia in this setting. The aim of this review was to examine the
+  care of surgical patients who have dementia and their family members in
+  peri-operative environments and describe strategies adopted by
+  healthcare professionals. A systematic search of the following databases
+  was completed: BNI, CINAHL, PubMED and PsychINFO in accordance with
+  PRISMA guidelines. Data were extracted and analysed within a thematic
+  analysis framework as described byBraun and Clarke. Ten papers based on
+  eight studies were included, five (n = 355,010 participants) containing
+  quantitative data and five reporting qualitative data (n = 395
+  participants). People with dementia who go undergo surgery experienced
+  higher adverse post-operative outcomes such as respiratory problems or
+  urinary tract infections. The key elements in surgical care for people
+  with dementia included: health assessment throughout the surgical
+  trajectory (pre-, intra- and post-operative) and the resources used by
+  healthcare professionals in the peri-operative care. Healthcare
+  professionals reported difficulties in the completion of health
+  assessments due to the cognitive status of people with dementia and a
+  lack of skills in dementia management. The use of restraints was still a
+  common practice and a source of conflict. Dementia-specific training and
+  guidelines focused on the care of surgical patients who have dementia in
+  peri-operative environments are required to improve care and
+  post-operative outcomes. More research is required to develop effective
+  interventions to improve care and decrease the risk of complications for
+  people with dementia in the peri-operative care environment.
+DA 2020-10-19
+UT WOS:000575868100010
+PM 30419182
+ER
+
+PT J
+AU Riquelme-Galindo, Jorge
+  Lillo-Crespo, Manuel
+TI Designing Dementia Care Pathways to Transform Non Dementia-Friendly
+  Hospitals: Scoping Review
+AB People with dementia (PwD) occupy around 25% of the hospital beds. Once
+  PwD are admitted to hospitals, their cognitive impairment is not
+  considered in most of the cases. Thus, it causes an impact on the
+  development of the disease becoming a stressful situation as care plans
+  are not adapted to PwD. The aim of this study was to explore the
+  published core elements when designing a dementia care pathway for
+  hospital settings. A scoping review was conducted to provide an overview
+  of the available research evidence and identify the knowledge gaps
+  regarding the topic. This review highlights person-centered care,
+  compassionate care and end-of-life process as some of the key elements
+  that should integrate the framework when designing a dementia care
+  pathway. Architectonical outdoor and indoor hospital elements have also
+  been found to be considered when adapting the healthcare context to PwD.
+  Findings provide information about the key points to focus on to
+  successfully design dementia interventions in hospital environments
+  within available resources, mostly in those contexts in which national
+  dementia plans are in its infancy. Hospitals should transform their
+  patients' routes and processes considering the increasing demographic
+  changes of people with cognitive impairment.
+DA 2021-09-01
+UT WOS:000694078400001
+PM 34501886
+ER
+
+PT J
+AU Herron, R. V.
+  Wrathall, M. A.
+TI Putting responsive behaviours in place: Examining how formal and
+  informal carers understand the actions of people with dementia
+AB Living alongside and working with people with dementia who yell or
+  strike out can be very demanding and sometimes harmful. It is generally
+  understood that such actions may be a response to the social and
+  physical environment, yet very little attention has been paid to
+  understanding what role the environment plays in eliciting and
+  responding to these actions across different settings. Drawing on 27
+  semi-structured interviews with formal and informal carers, this article
+  examines how carers understand the actions of people with dementia in
+  relation to their environment. We identify individual, interpersonal,
+  local environmental, macro-scale and temporal dynamics that influence
+  the actions of people with dementia and carers' capacities to work with
+  them. Drawing on relational thinking and the concept of structural
+  violence, we argue that many of the problems and solutions associated
+  with aggressive actions are located outside the person with dementia in
+  broader relations and systems of care. We conclude with a discussion of
+  how these understandings can inform developments in the systems of home
+  and community care.
+DA 2018-08-31
+UT WOS:000441482800002
+PM 29549870
+ER
+
+PT J
+AU Anaut-Bravo, Sagrario
+  Lopes-Dos-Santos, Cristina
+TI THE IMPACT THE RESIDENTIAL ENVIRONMENT IN THE PSYCHOSOCIAL ADAPTATION
+  AND QUALITY LIFE OF CAREGIVERS FAMILY-MEMBERS WITH DEMENTIA
+AB The sociodemographic evolution and its impact on long-term care in
+  emerging pathologies such as dementia demand responses from different
+  social protection systems. The present research has focused on
+  determining the impacts derived from the place of residence on the
+  psychosocial adaptation and quality of life of family caregivers of
+  people with dementia. The results confirm differences between urban and
+  rural, and semi-rural, environments, although there is, as a general
+  fact, a good quality of life and adaptation of caregivers of relatives
+  with dementia. Everything points to the necessity to promote health-care
+  institutions aligned with contextual spaces.
+DA 2020-07-16
+UT WOS:000545385000002
+ER
+
+PT J
+AU Pascale, Federica
+  Pantzartzis, Efthimia
+  Krystallis, Ilias
+  Price, Andrew D. F.
+TI Rationales and practices for dynamic stakeholder engagement and
+  disengagement. Evidence from dementia-friendly health and social care
+  environments
+EA OCT 2019
+AB Latest developments in stakeholder management literature focus on
+  dynamic stakeholder engagement and disengagement practices, and how
+  these are facilitated towards reaching systemic outcomes. However,
+  limited evidence support that this network-level approach can positively
+  influence project success. The paper analyses this issue by considering
+  the practices (how and when), rationales (why) and outcomes (so what)
+  that evolve in the dynamic management of external stakeholders in
+  dementia-friendly environments. This is a crucial area to explore as the
+  ageing population and rising dementia prevalence has increased the need
+  to engage external stakeholders, such as people living with dementia, to
+  develop dementia-friendly health and social environments. The empirical
+  study of the 2013/2014 Department of Health National Dementia Capital
+  Investment Programme involved a statistical and qualitative analysis of
+  98 pilot projects? final lessons learnt reports. The analysis advances
+  the dynamic process of timely engaging and disengaging external
+  stakeholders in a context not previously explored in the literature
+  related to dementia-friendly environments. Eight recurring practices and
+  six rationales, the latter characterized by their temporal dimension,
+  are presented in a processual model of stakeholder management.
+DA 2019-11-18
+UT WOS:000494102800001
+ER
+
+PT J
+AU Rohde, Christopher
+  Agerbo, Esben
+  Nielsen, Philip Rising
+TI Spouse with schizophrenia and risk of dementia
+AB Increased prevalence of lifestyle risk factors or shared etiology may
+  underlie the association between schizophrenia and the subsequent risk
+  of dementia. We explored the association between having a spouse with
+  schizophrenia and the risk of dementia. We found a positive relationship
+  between having a spouse with schizophrenia and vascular dementia in
+  individuals without a mental disorder themselves but no association
+  between having a spouse with schizophrenia and Alzheimer's dementia. As
+  spouses share environmental risk factors and lifestyle, this might
+  suggest that the excess risk of dementia in probands with schizophrenia
+  could be ascribed to the unhealthy living environment among individuals
+  with schizophrenia.
+DA 2016-12-01
+UT WOS:000389608800009
+PM 27744541
+ER
+
+PT J
+AU Liu, Wen
+  Kim, Sohyun
+TI Dyadic interactions and physical and social environment in dementia
+  mealtime care: a systematic review of instruments
+EA JUL 2021
+AB Using valid instruments to measure dyadic interactions and physical and
+  social environment during mealtime care of persons with dementia is
+  critical to evaluate the process, fidelity, and impact of mealtime
+  interventions. However, the characteristics and quality of existing
+  instruments remain unexplored. This systematic review described the
+  characteristics and synthesized the psychometric quality of instruments
+  originally developed or later modified to measure mealtime dyadic
+  interactions and physical and/or social dining environment for people
+  with dementia, on the basis of published reports between January 1, 1980
+  and December 31, 2020. We identified 26 instruments: 17 assessed dyadic
+  interactions, one assessed physical environment, and eight assessed
+  physical and social environment. All instruments were used in research
+  and none in clinical practice. All instruments were observational tools
+  and scored as having low psychometric quality, except for the refined
+  Cue Utilization and Engagement in Dementia (CUED) mealtime video-coding
+  scheme rated as having moderate quality. Reasons for low quality are the
+  use of small samples compared with the number of items, limited
+  psychometric testing, and inadequate estimates. All existing tools
+  warrant further testing in larger diverse samples in varied settings and
+  validation for use in clinical practice. The refined CUED is a potential
+  tool for use and requires testing in direct on-site observations.
+DA 2021-08-05
+UT WOS:000678934300001
+PM 34310706
+ER
+
+PT J
+AU Jarrott, Shannon E.
+  Gigliotti, Christina M.
+TI Layers of Influence: Important Contextual Factors in Directing Dementia
+  Care Programs
+AB Researchers have documented the powerful influence of the physical and
+  social environment on persons with dementia; however, most intervention
+  studies fail to include contextual assessments when exploring outcomes.
+  As part of a larger study assessing a horticultural therapy (HT)
+  intervention, the authors explored the contextual and procedural factors
+  that impacted results. Guided by the theory of environmental press,
+  interviews were conducted with five of the study's activity facilitators
+  who worked in seven dementia care programs possessing varied social and
+  physical environments. Findings indicated that the theory of
+  environmental press should be expanded beyond the person with dementia
+  and applied to program facilitators. A hierarchical relationship became
+  evident; for program participants to achieve congruence between their
+  competence and their environment, the facilitator must first achieve
+  such a fit. Facilitators with fewer competencies were more vulnerable to
+  the shortcomings of their environments; supportive environments can
+  minimize deficits in competence.
+DA 2011-03-16
+UT WOS:000286142300007
+ER
+
+PT J
+AU Peterson, Rachel L.
+  George, Kristen M.
+  Tran, Duyen
+  Malladi, Pallavi
+  Gilsanz, Paola
+  Kind, Amy J. H.
+  Whitmer, Rachel A.
+  Besser, Lilah M.
+  Meyer, Oanh L.
+TI Operationalizing Social Environments in Cognitive Aging and Dementia
+  Research: A Scoping Review
+AB Background: Social environments are a contributing determinant of health
+  and disparities. This scoping review details how social environments
+  have been operationalized in observational studies of cognitive aging
+  and dementia. Methods: A systematic search in PubMed and Web of Science
+  identified studies of social environment exposures and late-life
+  cognition/dementia outcomes. Data were extracted on (1) study design;
+  (2) population; (3) social environment(s); (4) cognitive outcome(s); (5)
+  analytic approach; and (6) theorized causal pathways. Studies were
+  organized using a 3-tiered social ecological model at interpersonal,
+  community, or policy levels. Results: Of 7802 non-duplicated articles,
+  123 studies met inclusion criteria. Eighty-four studies were
+  longitudinal (range 1-28 years) and 16 examined time-varying social
+  environments. When sorted into social ecological levels, 91 studies
+  examined the interpersonal level; 37 examined the community/neighborhood
+  level; 3 examined policy level social environments; and 7 studies
+  examined more than one level. Conclusions: Most studies of social
+  environments and cognitive aging and dementia examined interpersonal
+  factors measured at a single point in time. Few assessed time-varying
+  social environmental factors or considered multiple social ecological
+  levels. Future studies can help clarify opportunities for intervention
+  by delineating if, when, and how social environments shape late-life
+  cognitive aging and dementia outcomes.
+DA 2021-07-19
+UT WOS:000670956200001
+PM 34281103
+ER
+
+PT P
+AU CHOI S E
+  HAHM J
+  CHOI S
+  BRAG H
+TI Method for treating patient with mild cognitive      impairment or
+  dementia, involves providing modules      selected from group
+  consisting of lifestyle change      module, execution environment
+  module, learning/memory      module, exercise module
+AE S-ALPHA THERAPEUTICS INC
+AB 
+  NOVELTY - The method involves providing modules that are        
+  selected from a group consisting of lifestyle        change
+  module, execution environment module,        learning/memory
+  module, exercise module and        affirmative/accomplishment
+  module by an electronic        device to a patient, where each
+  of the modules        comprises instructions for the patient to
+  follow.        The adherence information is transmitted to a  
+  server based on the adherence by the electronic        device.
+  Another set of instructions is received        from the server.
+  Photos are received, displayed and        played by the device,
+  where the device receives and        outputs the instructions to
+  the patient. The        patient is a patient with mild cognitive
+         impairment.
+  USE - Method for treating a patient with MCI or        dementia.
+  ADVANTAGE - The method allows a medical professional to        
+  check patient's instructions and execution outcomes        for a
+  given period and adjust types of modules for        treating MCI
+  and AD, and the instructions for each        module in a
+  patient-customized manner when the        digital apparatus and
+  the application are        used.
+  DETAILED DESCRIPTION - INDEPENDENT CLAIMS are included for the     
+  following:a system for treating a patient with mild        
+  cognitive impairment MCI or dementia;a computing system for treating MCI
+  or        dementia in a patient; anda non-transitory computer
+  readable medium for        treating a patient with mild
+  cognitive impairment        MCI or dementia.
+  DESCRIPTION Of DRAWING(S) - The drawing shows a flowchart of a procedure
+  using an digital application for treating or        inhibiting
+  progression of MCI and AD.
+DA 2023-01-21
+UT DIIDW:202302937H
+ER
+
+PT J
+AU Riquelme-Galindo, Jorge
+  Lillo-Crespo, Manuel
+TI Developing a dementia inclusive hospital environment using an Integrated
+  Care Pathway design: research protocol
+AB People with dementia occupy 25% of the hospital beds. When they are
+  admitted to hospitals their cognitive impairment is not considered in
+  most of the cases. Some European and North American countries already
+  have experience of implementing national plans about Alzheimer's disease
+  and dementia. However South European countries such as Spain are in the
+  early stages. The aim of this study is to design an Integrated Care
+  Pathway to adapt the hospital environment and processes to the needs of
+  people with dementia and their caregivers, generating a sense of
+  confidence, increasing their satisfaction and protecting them from
+  potential harmful situations. This study uses King's Fund Dementia Tool
+  to assess the hospital environment and develop a continous improvement
+  process. People with dementia, families, caregivers and healthcare staff
+  will evaluate the different settings in order to provide guidance based
+  on patient needs. Person-centred care, prudent healthcare and
+  compassionate care are the conceptual framework of this care pathway.
+  The implementation and evaluation of this research protocol will provide
+  information about how to successfully design dementia interventions in a
+  hospital environment within available resources in those contexts where
+  dementia plans are in its infancy, as only around 15% of all states
+  worldwide have currently designed a concise dementia national plan.
+DA 2021-07-23
+UT WOS:000672851700001
+PM 34316390
+ER
+
+PT J
+AU 안상락
+  박하민
+TI Basic Study of Facility Environment Design for Dementia Patient
+Z1 치매환자를 위한 시설환경디자인 기초연구
+AB With current medical technology, the complete cure for dementia is
+  hopeless. As an alternative, the delay in the process of the disease is
+  the best solution in which can be improved by universal design. Several
+  important factors for patients with dementia are physical security and
+  mental stability. Some studies emphasize the importance of maintaining,
+  yet, intact physical abilities. In order to maintain one’s functional
+  ability at its highest, emphasis in designing with consideration of the
+  layout, location and pattern is crucial. Redesigning facilities and
+  caring environment with patients’ own furniture and art can reduce
+  stress. Prolongation of one’s life rather than severance can maintain
+  healthy environment. Simplification of the environment with maximum use
+  of visual familiarity must be realized so that the suffering patients
+  can easily adjust to the new environment. We expect with continuing
+  design innovation for caring facilities and innovation and sustainable
+  healthy physical activity to improve the lives of dementia patients.
+AK 치매의 완치는 현재로는 불가능하다. 그렇기 때문에 질병을 지연시키는 방법이 최선이며, 시설의 환경디자인을 개선함으로써 그 효과를
+  높일 수 있을 것이다. 치매인들의 물리적 안전과 심리적 안정을 확실하게 느낄 수 있도록 하는 것도 중요하다. 일부 학자들은 완전히
+  손상되지 않은 능력 유지의 중요함을 강조하기도 한다. 예를 들면 본인의 기능적 능력을 높은 단계로 유지하도록 방의 배치나 위치,
+  행동패턴의 흐름을 고려해 디자인을 해야 한다. 집단시설이나 장기케어시설에 입주할 때는 자신이 집에서 사용하던 가구나 미술품 등을
+  배치하여 살아오던 집의 분위기를 최대한 동일한 분위기로 꾸밈으로써 스트레스를 줄일 수 있다. 과거의 단절이 아닌 연계의 개념일 때
+  건강한 환경이 유지된다. 시설에서는 본인의 방을 쉽게 찾을 수 있도록 문의 색상을 달리하며, 눈에 띄게 하고 화장실 등과 같은
+  공공시설은 이동거리를 최대한 짧게 하고, 벽면의 그래픽이나 사인의 효과를 적극적으로 활용하여 이동의 단순화를 실현해야 한다.
+  치매환자들의 시설 환경의 디자인적 개선과 지속적인 운동 활동으로 극복되기를 기대한다.
+DA 2017-01-01
+UT KJD:ART002288208
+ER
+
+PT J
+AU Werezak, Leona J
+  Morgan, Debra G
+TI Creating a therapeutic psychosocial environment in dementia care. A
+  preliminary framework.
+AB Research in dementia care during the past few years has focused on
+  identifying and designing therapeutic physical environments while the
+  psychosocial environment has remained a largely unexplored domain. More
+  recently, discussions regarding the effect of the social environment on
+  individuals with dementia have increased in the literature.
+  Nevertheless, the authors suggest the term "social environment" does not
+  adequately represent the critical psychological and emotional effect
+  social interaction has on individuals with cognitive impairment. Through
+  an examination of the literature, three conceptual frameworks, and
+  clinical observations of several special care units (SCUs), the authors
+  suggest that the psychosocial environment is the most important element
+  of institutional dementia care. A preliminary conceptualization is
+  offered which identifies the elements necessary to facilitate a
+  supportive psychosocial environment in long-term care. The potential
+  benefits of implementing such a model include preservation of
+  personhood, simple recognition of remaining abilities and a decreased
+  focus on disabilities, and reduction of pharmacologic therapy for
+  disruptive behavior resulting in overall improvement in quality of life.
+DA 2003-12-01
+UT MEDLINE:14692240
+PM 14692240
+ER
+
+PT J
+AU de Boer, Bram
+  Bozdemir, Belkis
+  Jansen, Jack
+  Hermans, Monique
+  Hamers, Jan P. H.
+  Verbeek, Hilde
+TI The Homestead: Developing a Conceptual Framework through Co-Creation for
+  Innovating Long-Term Dementia Care Environments
+AB Alternative care environments for regular nursing homes are highly
+  warranted to promote health and well-being of residents with dementia
+  that are part of an age-friendly and dementia-friendly city and society.
+  Insight is lacking on how to translate evidence-based knowledge from
+  theory into a congruent conceptual model for innovation in current
+  practice. This study reports on the co-creation of an alternative
+  nursing home model in the Netherlands. A participatory research approach
+  was used to co-create a conceptual framework with researchers,
+  practitioners and older people following an iterative process. Results
+  indicate that achieving positive outcomes for people with dementia,
+  (in)formal caregivers, and the community is dependent on how well the
+  physical, social and organizational environment are congruently
+  designed. The theoretical underpinnings of the conceptual model have
+  been translated into "the homestead," which is conceptualized around
+  three main pillars: activation, freedom and relationships. The Homestead
+  Care Model is an illustrative example of how residential care facilities
+  can support the development of age-friendly communities that take into
+  consideration the needs and requirements of older citizens. However,
+  challenges remain to implement radical changes within residential care.
+  More research is needed into the actual implementation of the Homestead
+  Care Model.
+DA 2021-01-26
+UT WOS:000606126900001
+PM 33374761
+ER
+
+PT J
+AU Hong, Gwi-Ryung Son
+  Song, Jun-Ah
+TI Relationship between familiar environment and wandering behaviour among
+  Korean elders with dementia
+AB To explore the relationship between wandering behaviour and familiar
+  environment in community-residing persons with dementia in Korea.
+  Numerous non-pharmacological interventions have been developed to
+  decrease behavioural symptoms and to increase the quality of life among
+  persons with dementia. Although the concept of familiarity is very
+  important and environmental interventions using the concept should have
+  been developed for persons with dementia, no study examining even the
+  direct relationship between familiar environment and wandering has yet
+  been published.
+  A descriptive, cross-sectional survey design.
+  A convenience sample was gathered of 77 non-institutionalised,
+  community-dwelling persons with dementia and their family caregivers in
+  Seoul and Wonju, South Korea. Descriptive statics, Pearson's
+  correlations, t-tests, and multiple regressions were used in the data
+  analysis.
+  The mean age of persons with dementia was 76.9 years (SD 8.0) and their
+  mean cognitive level score using the Mini-Mental State Examination was
+  13.51 (SD 6.10). Most persons with dementia (71.4%) had been diagnosed
+  with known types of dementia such as Alzheimer's disease, multiple
+  infarct dementia, mixed type or Parkinson's disease with dementia. A
+  familiar feeling with the environment was associated with cognitive
+  impairment (r = 0.32, p < 0.01) and physical dependency in activities of
+  daily living (r = -0.38, p < 0.01). In addition, a familiar feeling with
+  the environment (r = -0.56, p < 0.001) and physical dependency in
+  activities of daily living (r = 0.56, p < 0.001) were strongly related
+  to wandering behaviour. Familiarity and physical dependency in
+  activities of daily living were the significant predictors for overall
+  wandering and they explained 45% of the total variance. Cognitive
+  impairment was the only significant predictor on the subscale of spatial
+  disorientation.
+  It was found that a familiar feeling with the environment was an
+  important factor affecting persons with dementia's cognitive and
+  functional abilities as well as specific features of wandering. However,
+  future research using a more reliable method is necessary to confirm the
+  findings obtained in this study.
+  This study suggested that providing persons with dementia with a
+  familiar feeling in daily clinical practice through establishment of
+  familiar physical as well as psychosocial environment may have benefit
+  to decrease wandering behaviour.
+DA 2009-05-01
+UT WOS:000265035000016
+PM 19207794
+ER
+
+PT J
+AU Stewart, S
+  Stewart, S
+  Page, A
+TI Dementia friendly design: Briefing and auditing buildings as appropriate
+  environments for dementia sufferers
+DA 2004-10-01
+UT WOS:000225458801122
+ER
+
+PT J
+AU Collier, Lesley
+  McPherson, Kathryn
+  Ellis-Hill, Caroline
+  Staal, Jason
+  Bucks, Romola
+TI Multisensory Stimulation to Improve Functional Performance in Moderate
+  to Severe Dementia-Interim Results
+AB Dementia is a growing problem worldwide and interventions to effectively
+  manage and promote function are urgently required. Multisensory
+  environments (MSEs) have been used extensively with people with
+  dementia; however, no studies have been conducted to explore the
+  efficacy of sensory stimulation on functional performance. This study
+  explores to what extent multisensory stimulation influences functional
+  performance in people with moderate-to-severe dementia using an MSE
+  compared with a control activity. Thirty participants with
+  moderate-to-severe dementia were recruited from the South of England.
+  Following baseline assessment and design of a bespoke intervention, each
+  participant attended their allocated intervention (3 x week, for 4
+  weeks). Assessments were carried out pre and postsession using the
+  Assessment of Motor and Process Skills. Results indicate significant
+  improvement in functional performance in both the MSE and the control
+  activity. Findings support the use of MSEs as a strategy for enhancing
+  functional performance in dementia.
+DA 2010-12-01
+UT WOS:000284961600011
+PM 21131677
+ER
+
+PT J
+AU Gjodsbol, Iben M.
+TI Intangible Cultural Heritage: 'Curating' the Human
+EA JUL 2022
+AB 'Nostalgic environments' are increasingly being created in museums and
+  institutional care settings for people with dementia, to support
+  residents' capacities for memory and recognition. Drawing upon
+  ethnography carried out in a public nursing home specialized in dementia
+  care in Copenhagen, Denmark, this paper engages conceptually the
+  employment of material heritage within dementia care environments,
+  proposing dementia care as a 'curatorial' practice: caregivers act as
+  'curators' who re-establish and reorganize the 'meaning' of the
+  residents by preserving their individual biographies and societal
+  belonging. The analytical alignment of dementia care with the curating
+  of cultural valuables reveals that the human is not only the subject
+  within-and the creator of-cultural heritage, but also the object: the
+  person with dementia is simultaneously an acting subject in care and an
+  object for performances of the category of the human. As the curatorial
+  care performed in nursing homes preserves not only individual, but also
+  collective memories of what it takes to be human and belong in society,
+  these institutions should be recognized as significant sites within
+  society concerned with the production of meaning, value and cultural
+  heritage.
+DA 2022-07-10
+UT WOS:000819272100001
+PM 35773502
+ER
+
+PT J
+AU Choi,, Young-Seon
+TI A Study on Environment-related Factors that Promote PsychologicalÂ·
+  Behavioral Health and Quality of Life for People with Dementia - Focused
+  on the Context of Long-term Care Facilities for People with Dementia
+Z1 치매 환자의 건강과 삶의 질 향상을 위한 치유환경 요소에 관한 연구 - 치매 환자를 위한 노인요양시설을 중심으로
+AB Purpose: The main purpose of this paper is to assess a body of research
+  evidence that articulates the impact of environment-related factors on
+  behavioral health and quality of life for people with dementia who
+  reside in long-term care facilities. The study also aims at identifying
+  design implications that can be incorporated into design process and
+  design decisions to improve behavioral health and quality of life for
+  people with dementia. Methods: Comprehensive literature review has been
+  conducted to identify empirical studies and that link the design of
+  dementia care facilities to health- and QOL-related outcomes and
+  scrutinized peer-reviewed articles published in many different fields
+  including architecture, psychology, to nursing. Results: The review
+  identified a growing body of literature that articulates
+  environment-related factors that improve health and quality of life for
+  people with dementia living long-term care facilities Implications: The
+  findings of the review can be translated to design decisions to promote
+  psychological and behavioral health and quality of life of people with
+  dementia in long-term care facilities.
+DA 2022-12-25
+UT KJD:ART002904671
+ER
+
+PT J
+AU Sloane, Philip D.
+  Mitchell, C. Madeline
+  Weisman, Gerald
+  Zimmerman, Sheryl
+  Foley, Kristie M. Long
+  Lynn, Mary
+  Calkins, Margaret
+  Lawton, M. Powell
+  Teresi, Jeanne
+  Grant, Leslie
+  Lindeman, David
+  Montgomery, Rhonda
+TI The Therapeutic Environment Screening Survey for Nursing Homes
+  (TESS-NH): An Observational Instrument for Assessing the Physical
+  Environment of Institutional Settings for Persons With Dementia (vol 57,
+  pg S69, 2002)
+DA 2021-02-04
+UT WOS:000608484400033
+PM 31566236
+ER
+
+PT J
+AU Davis, LA
+  Hoppes, S
+  Chesbro, SR
+TI Cognitive-communicative and independent living skills assessment in
+  individuals with dementia - A pilot study of environmental impact
+AB Individuals with dementia have cognitive deficits that inhibit
+  processing information and adapting to environmental changes. The
+  environment in which the individual is evaluated may impact assessment
+  results. An interdisciplinary approach was used to assess individuals
+  with dementia in three settings on independent living skills,
+  Significant differences were found between home and clinical settings on
+  motor skills, with motor skills higher in (fie home. No significant
+  differences were found on social skills, cognitive-communicative skills,
+  or instrumental activities. Although contemporary practice emphasizes
+  the importance of the environment in individuals with dementia, results
+  indicate that these individuals score similarly, across three different
+  environments.
+DA 2005-04-01
+UT WOS:000229251500009
+ER
+
+PT J
+AU Hurley, Ann C
+  Gauthier, Mary Anne
+  Horvath, Kathy J
+  Harvey, Rose
+  Smith, Sally J
+  Trudeau, Scott
+  Cipolloni, P B
+  Hendricks, Ann
+  Duffy, Mary
+TI Promoting safer home environments for persons with Alzheimer's disease.
+  The Home Safety/Injury Model.
+AB This article describes a Home Safety/Injury Model derived from Social
+  Cognitive Theory. The model's three components are safety platform, the
+  person with dementia, and risky behaviors. The person with dementia is
+  in the center, located on the safety platform composed of the physical
+  environment and caregiver competence. The interaction between the
+  underlying dementia and indicators of frailty can lead to the person
+  with dementia performing risky behaviors that can overcome the safety
+  platform's resources and lead to an accident or injury, and result in
+  negative consequences. Through education and research, the model guides
+  proactive actions to prevent risky behaviors of individuals with
+  dementia by promoting safer home environments and increased caregiver
+  competence.
+DA 2004-06-01
+UT MEDLINE:15227936
+PM 15227936
+ER
+
+PT J
+AU Shakespeare, Tom
+  Zeilig, Hannah
+  Mittler, Peter
+TI Rights in Mind: Thinking Differently About Dementia and Disability
+AB The aim of this paper is to argue for the utility of a relational model
+  of disability, as a way of conceptualizing dementia. We explore whether
+  dementia should be considered as a disability, and whether people with
+  dementia might consider themselves as disabled people. We review
+  examples of, and issues raised by, the political activism of people with
+  dementia. We consider how language constructs dementia negatively. We
+  discuss how the environment influences the experience of dementia. In
+  conclusion, we show that a relational model of dementia lays the basis
+  for a human rights approach to the condition, based on collaborative
+  partnerships between people with dementia and people from other
+  disability communities.
+DA 2019-04-26
+UT WOS:000464525300015
+PM 28387137
+ER
+
+PT J
+AU Zwijsen, Sandra A.
+  van der Ploeg, Eva
+  Hertogh, Cees M. P. M.
+TI Understanding the world of dementia. How do people with dementia
+  experience the world?
+AB Background: There is growing awareness that the subjective experience of
+  people with dementia is important for understanding behavior and
+  improving quality of life. This paper reviews and reflects on the
+  currently available theories on subjective experience in dementia and it
+  explores the possibility of a knowledge gap on the influence of
+  neurological deficits on experience in late stage dementia.
+  Methods: A literature review on current commonly used theories on
+  experience in dementia was supplemented with a systematic review in
+  PubMed and Psychinfo. For the systematic review, the terms used were
+  Perception and Dementia and Behavior; and Awareness and Dementia and
+  Long term care.
+  Results: Current models emphasize the psychosocial factors that
+  influence subjective experience, but the consequences of neurological
+  deficits are not elaborated upon. The systematic literature search on
+  the neuropsychological functioning in dementia resulted in 631 papers,
+  of which 94 were selected for review. The current knowledge is limited
+  to the early stages of Alzheimer's disease. Next to memory impairments,
+  perception of the direct environment, interpretation of the environment,
+  and inhibition of own responses to the environment seem to be altered in
+  people with dementia.
+  Conclusions: Without knowledge on how perception, interpretation and the
+  ability for response control are altered, the behavior of people with
+  dementia can easily be misinterpreted. Research into neuropsychological
+  functioning of people in more severe stages and different forms of
+  dementia is needed to be able to develop a model that is truly
+  biopsychosocial. The proposed model can be used in such research as a
+  starting point for developing tests and theories.
+DA 2016-07-01
+UT WOS:000382387500004
+PM 26935983
+ER
+
+PT J
+AU Motealleh, Parinaz
+  Moyle, Wendy
+  Jones, Cindy
+  Dupre, Karine
+TI Creating a dementia-friendly environment through the use of outdoor
+  natural landscape design intervention in long-term care facilities: A
+  narrative review
+AB There is an increasing volume of literature on the positive effects of
+  outdoor natural landscapes on health and well-being. However, to date,
+  there is a paucity of research on the effect of outdoor natural
+  landscapes designed for people with dementia living in long-term care
+  (LTC) facilities, in particular, those which have incorporated the
+  characteristics of a dementia-friendly environment (DFE). This narrative
+  literature review synthesizes current knowledge on the effect of outdoor
+  natural landscape design, which is aligned with the characteristics of a
+  DFE, to improve agitation, apathy and engagement of people with dementia
+  living in LTC facilities. The reviewed studies predominantly support the
+  positive effects of outdoor natural landscapes on agitation, apathy and
+  engagement of people with dementia. However, there are concerns about
+  the methodological approaches, principles incorporated in the applied
+  outdoor natural landscapes' designs, and the environmental assessment.
+  Further rigorous research is required to understand the impact of the
+  outdoor natural landscapes, with the application of DFE characteristics
+  in the design, on agitation, apathy and engagement of people with
+  dementia living in LTC facilities.
+DA 2019-09-05
+UT WOS:000482101600006
+PM 31220798
+ER
+
+PT J
+AU Jung, Park Se
+AU 김한곤
+TI A Study on the Quality of Life of Elderly People with Dementia and the
+  Environmental Factor of Facilities
+Z1 치매노인의 삶의 질과 시설환경 요인에 관한 연구
+AB There have lately been a variety of social issues in our society due to
+  rapid social changes. Specifically, how to approach elderly people who
+  suffer from dementia is never an easy task, and few in-depth studies
+  have ever focused on their quality of life due to that. The purpose of
+  this study was to examine the quality of life of elderly people with
+  dementia and the relationship between their quality of life and the
+  environments of facilities for them in an attempt to lay the foundation
+  for the development of compatible programs tailored to the environments
+  of the facilities and for relevant policy setting. It's ultimately meant
+  to improve the quality of life of the elderly with dementia and the
+  environments of facilities for them. The subjects in this study were
+  elderly people with dementia who were housed in senior residential and
+  medical welfare facilities in Daegu and Gyeongsangbukdo. The collected
+  data were analyzed with a SPSS 12.0 program, and frequency analysis,
+  cross-tabs and multiple logistic regression analysis were utilized. As a
+  result, facility environments were identified as one of the variables
+  that had a significant impact on the quality of life of the elderly
+  people with dementia. There are some suggestions about how to boost
+  their quality of life: First, good environments should be prepared in
+  consideration of the characteristics of elderly people with dementia in
+  order for them to be satisfied with their own quality of life, and the
+  way of looking at their potentials should be changed. Second, it's found
+  that main caregivers affected the quality of life of the elderly people
+  with dementia, and the kind of programs that focus on the improvement of
+  the relationship between elderly people with dementia and their main
+  caregivers is required. Third, there should be a change in the
+  environments of the facilities. The facilities should be well equipped
+  to successfully respond to the symptoms of elderly people with dementia.
+  To redress their poor accessibility to the facilities, infrastructure
+  involving nursing homes and professional personnels should be built by
+  utilizing the Internet, and the facilities and local community should
+  make concerted efforts to provide quality care to elderly people in want
+  of it.
+AK 최근 우리 사회는 급격한 사회변동으로 다양한 사회문제를 경험하여 왔다. 특히 치매노인이 접근하기 쉽지 않은 대상이라는 특성 때문에
+  치매노인의 삶의 질에 대한 심층적인 연구가 제대로 이루어지지 않고 있다. 이 연구의 목적은 치매노인의 삶의 질을 조사하고,
+  치매노인의 삶의 질과 시설 환경과의 관계 분석을 통해 치매노인의 시설 환경에 적합한(compatible) 프로그램 개발이나 다양한
+  정책적 및 실천적 방안을 구성하는 데 필요한 기초 자료를 제시하고자 하며, 이를 통하여 치매노인의 삶의 질 향상과 시설 환경적
+  문제해결 방안을 모색하는 것이다. 이를 위하여 대구 및 경북지역의 노인주거복지시설 및 노인의료복지시설의 치매노인을 대상으로
+  하였으며 수집된 자료는 SPSS 12.0 통계 프로그램을 이용하여 빈도 및 교차분석과 다항로지스틱회귀분석을 하였다. 그 결과
+  시설의 환경이 치매노인의 삶의 질에 유의한 영향을 미치는 변인으로 밝혀졌다. 이를 위한 방안으로는 첫째, 치매노인이 만족하는 삶의
+  질을 위해서는 치매노인의 특성을 충분히 고려한 환경을 마련하고 치매노인의 잠재능력에 대한 인식전환이 필요하다. 둘째, 주수발자가
+  치매노인의 삶의 질에 영향을 주는 것으로 나타난 결과를 미루어 볼 때, 주수발자와의 관계 향상을 위한 프로그램이 필요하다. 셋째,
+  시설환경의 변화가 필요하다. 시설들이 치매노인의 증상에 잘 대처해 나갈 수 있도록 준비하고 시설의 접근성이 다소 떨어지는 것에
+  대해서는 오프라인(off-line)보다는 온라인(on-line)을 통해 치매노인요양시설과 전담인력 등 인프라를 확충하고,
+  지역사회가 긴밀히 협력하여 요양보호를 필요로 하는 어르신께 양질의 요양보호서비스를 제공할 수 있도록 해야 한다.
+DA 2009-01-01
+UT KJD:ART001393938
+ER
+
+PT J
+AU Rabanal, L.
+TI Creating an occupationally just environment for younger people living
+  with dementia
+DA 2017-09-05
+UT WOS:000407064700039
+ER
+
+PT J
+AU ORRELL, M
+  BEBBINGTON, P
+TI LIFE EVENTS AND SENILE DEMENTIA .1. ADMISSION, DETERIORATION AND
+  SOCIAL-ENVIRONMENT CHANGE
+AB This study examines the frequency of life events before admission and
+  before deterioration in 70 dementia patients, in comparison with 50
+  dementia controls living in the community and 50 fit elderly people
+  matched for age and sex. We hypothesized that there would be an excess
+  of events connoting changes in routine and the social environment.
+  Specific scales were developed to measure these aspects of events. Our
+  results supported the initial hypothesis, confirming that it is the
+  social disruptiveness of change rather than the threat implied by life
+  events that is associated with deterioration. The findings are discussed
+  in the light of current models of the dementia process.
+DA 1995-03-01
+UT WOS:A1995RF83700015
+PM 7675925
+ER
+
+PT J
+AU Vinick, Devora
+TI Dementia-friendly design: Hogeweyk and beyond
+DA 2019-06-01
+UT WOS:000473255200021
+PM 31147331
+ER
+
+PT J
+AU Lee, Sook-Young
+  Hung, Lillian
+  Jung, Hyun Won
+  Chaudhury, Habib
+TI Role of Physical Environment in Quality of Life among Residents in
+  Dementia Care Facilities through a Longitudinal Observational Study -
+  For Facilities in Canada and South Korea -
+AB This longitudinal observational study aims to examine whether residents
+  with dementia in long-term care facilities with variability in physical
+  environment qualities in Vancouver (N=11), Canada and Seoul (N=9), South
+  Korea had a difference in their quality of life (QoL). Physical
+  environmental assessment was conducted using the Therapeutic Environment
+  Screening Survey for Nursing Homes (TESS-NH). QoL was assessed three
+  times over one year using Dementia Care Mapping tool. The results of the
+  study demonstrated that the residents with dementia living in an
+  institutional large-scale setting showed statistically more withdrawn
+  behavior and spent more time to be negative mood or affect compared to
+  the ones in a small-scale setting. This study also found that the number
+  of potential positive behaviors of residents in a small-scale setting
+  was three times higher than that of residents in an institutional
+  large-scale setting. When looking at the distinction between two
+  countries in the behavior category with a large average time difference,
+  the residents with dementia in Korea had shorter meal/dessert times
+  compared to those in Canada. The study supports that the small-scale
+  homelike environment is intensely associated with a therapeutic
+  environment for older adults with dementia.
+DA 2022-05-26
+UT KJD:ART002786714
+ER
+
+EF

@@ -1,0 +1,188 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT P
+AU NA D L
+  KIM K W
+  JIN J H
+  LEE B H
+  CHOI J D
+  CHOI J H
+  HAN H B
+  CHIN J H
+  LUO D
+  JIN G
+  CHEN Z
+  LI B
+  CUI Z
+  HAN X
+TI Device for diagnosing neural disease i.e. dementia      of patient
+  in hospital using virtual reality, has first      screen
+  introducing object in environment, and virtual      reality device
+  provided with second screen for      indicating question about
+  object
+AE SAMSUNG LIFE PUBLIC WELFARE FOUND MED CE
+AB 
+  NOVELTY - The device (100) has a virtual reality device        
+  (102) for providing a virtual reality environment        by an
+  image. A display (160) indicates the image        for diagnosing
+  neural disease received from an        external device through a
+  communication unit. A        sensing part senses operation of a
+  user. The        communication unit communicates with the
+  external        device and a control unit for inspecting neural 
+  disease diagnosis condition. The control unit        determines
+  the operation of the user through the        sensing part. A
+  first screen introduces an object        in the virtual reality
+  environment. The virtual        reality device is provided with
+  a second screen for        indicating question about the object.
+  USE - Device for diagnosing neural disease i.e.        dementia
+  of a patient in a hospital using virtual        reality. Uses
+  include but are not limited to        neurodegenerative
+  disorder, Alzheimer disease,        blood vessel disease
+  dementia, frontotemporal        dementia, corticobasal
+  degeneration, progressing        supranuclear paralysis, lewy
+  body dementia,        knot-derision senile dementia, Pick's
+  disease,        granule disease, amyotrophic lateral sclerosis, 
+  motion neural disease, Guam parkinsonism-dementia        
+  complex, wrightii nose-beam dig disease, multiple        
+  sclerosis, traumatic brain injury and Parkinson's        
+  disease.
+  ADVANTAGE - The device conveniently performs inspection        
+  about the neural disease including dementia by        using the
+  virtual reality device without realizing        burden, and
+  easily and comfortably determines        internal environment of
+  a user, so that burden and        mind stress of the patient can
+  be reduced.
+  DETAILED DESCRIPTION - An INDEPENDENT CLAIM is also included for a   
+  method for diagnosing neural disease i.e. dementia        of a
+  patient in a hospital using virtual        reality.
+  DESCRIPTION Of DRAWING(S) - The drawing shows a schematic block diagram 
+  of a device for diagnosing neural disease of a        patient in
+  a hospital using virtual reality.        '(Drawing includes
+  non-English language        text)'Neural disease diagnosing
+  device (100)Personal computer (101)Virtual reality device (102)Server
+  (106)Display (160)
+DA 2018-10-12
+UT DIIDW:201875510L
+ER
+
+PT J
+AU Lee,, Sukyung
+  Choi, Yoon Kyung
+TI A Comparative Review of the Design Guidelines for Dementia-Friendly Care
+  Environments in Terms of ‘Person-Centered Care’ Approach
+Z1 ‘인간중심 돌봄’적인 측면에서의 치매친화환경지침 비교검토
+AB Purpose: This study aims to examine how Person-Centered Care approach
+  has affected the long-term elderly care facility design guidelines
+  related to the dementia friendly environment, by examining the
+  literature on 'Person-Centered Care' highlighted in research; to address
+  the policy implications for dementia-friendly environment on basis of
+  Person-centered approach. Method: The concept of Person-centered Care
+  was defined, and the principles and the design features of
+  Person-centered care were derived from literature review focused on
+  person-centered Care and the design of environments for people with
+  dementia highlighted in research. Based on the facts, this study
+  examines how much Person-Centered Care approach affects the design
+  guidelines for dementia-friendly environments by comparative review.
+  Result: The result shows that the principles and design features of
+  Person-centered Care influence on that of the selected design guidelines
+  for dementia-friendly elderly care environments directly through
+  comparative review. The viewpoint to dementia care environments has
+  changed from person-centered care approach for dementia patients based
+  on homelike environment to that expanded dementia patients' families and
+  staffs who take care of them, based on community. In Korea, the
+  direction of dementia care policy is in the process of gradually
+  changing from a medical approach to an expanded social and
+  person-centered care approach. There is a strong need to establish the
+  design guideline for dementia-friendly environments to apply the
+  efficient change.
+DA 2021-06-22
+UT KJD:ART002685375
+ER
+
+PT J
+AU Lee, Yeunsook
+  Hwang,, Jihye
+AU 임수현
+TI A Comparative Analysis on Structure of Design Guidelines for Dementia
+  Elderly Care Environment
+Z1 치매노인환경을 위한 선도적 디자인 지침의 체계 비교 분석
+AB As Korean society has been rapidly aging and a proportion of the elderly
+  with dementia has been also increasing, there has been more needs of
+  properly designed dementia elderly care environment. To build one that
+  is appropriate for the elderly with dementia, having a right guideline
+  is a key. Therefore, the purpose of this study is to comparatively
+  analyze structures of leading dementia elderly care environment design
+  guidelines in order to suggest a base of combing them which could be
+  helpful for professionals involved in providing care environment for the
+  elderly with dementia. A content analysis method was used in this study
+  and 'Therapeutic Environment Screening Scale for Nursing Homes and
+  Residential Care(TESS-NH/RC)', 'Dementia Design Checklist(DDC)', 'Matrix
+  Bauliche Anforderungen und Bereiche(MBAB)', and 'Environment Dementia
+  Care(EDC)' were chosen for a comparative analysis. As a result, these
+  guidelines were systematized by a human system and a space system.
+DA 2011-01-01
+UT KJD:ART001605082
+ER
+
+PT P
+AU CHOI J S
+TI Dementia patient training system using virtual      reality,
+  includes a server providing virtual reality to      a patient with
+  dementia connected through a network,      and the server
+  implements a virtual environment of      virtual reality
+AE C2 MONSTER CO LTD
+AB 
+  NOVELTY - The system includes a server (100) providing        
+  virtual reality to a patient with dementia        connected
+  through a network (150). The server        implements a virtual
+  environment of virtual reality        and recognizes multiple
+  patients in the virtual        environment. A process module
+  (110) provides        mission content for improving capability.
+  A storage        module (120) stores the mission content, the  
+  patient's selection data, operation data, and the        
+  patient's mission success data. A communication        module
+  (130) communicates with the patient's        terminal through a
+  network. A cognitive ability        determination module (140)
+  determines the patient's        cognitive ability through the
+  patient's selection        data and operation data for a mission
+  provided by        the process module. The communication module 
+   receives the patient's selection data and motion        data.
+  USE - Dementia patient training system using virtual        
+  reality.
+  ADVANTAGE - The system improves cognitive ability in a        
+  virtual environment for a patient with dementia, it        is
+  possible to continuously and repeatedly train by        causing
+  interest.
+  DESCRIPTION Of DRAWING(S) - The drawing shows a schematic representation
+  of the server. (Drawing includes non-English        language
+  text).Server (100)Process module (110)Storage module (120)Communication
+  module (130)Cognitive ability determination module        
+  (140)Network (150)
+DA 2020-07-02
+UT DIIDW:202054322D
+ER
+
+PT J
+AU Van Steenwinkel, Iris
+  Van Audenhove, Chantal
+  Heylighen, Ann
+TI Mary's Little Worlds: Changing Person-Space Relationships When Living
+  With Dementia
+AB With the case study presented in this article we explore how people with
+  dementia experience and use their environment to expand our
+  understanding of how architectural environments can improve their
+  well-being. We focus on how relationships between people and spaces
+  change for people with dementia. Using a qualitative analysis of three
+  in-depth interviews with a woman living with dementia, we obtained an
+  insider's perspective and a rich account of the changes in her life,
+  including her lived experiences and interventions in her home
+  environment. We contend that looking at people with dementia in relation
+  to and interaction with their environment, combined with an explorative
+  research approach, might reveal multiple and innovative possibilities in
+  designing for people with dementia. To that end, and to build on
+  existing architectural expertise, we suggest focusing on architectural
+  ordering principles across different cases.
+DA 2014-10-29
+UT WOS:000342625100001
+PM 25015779
+ER
